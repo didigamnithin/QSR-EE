@@ -1,0 +1,931 @@
+Campaign UUID,Offer type,Status,Start date,End date,Stores,Audience,Sales (USD),New customers,Orders,Uber funding (%),Items,folder_name
+204da8f0-004a-4d0c-8cfd-293418c50829,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$402,3,12,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+ca7e1dba-deb9-42cf-b610-b4d71d9f197d,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$313,2,9,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+5b21461b-52eb-4a1c-8426-391a63db32d7,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$88,3,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+4fef7c6e-f965-4196-93a3-3ae224e51404,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+48e68fcc-abca-4315-ad2a-da670734741e,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$283,2,8,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+59e74f9d-4196-42a7-ab1a-1730225fcfb3,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$59,1,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+366ccc5c-6127-48c7-8b56-e75b23cb3ad7,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$34,0,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+055ff2aa-2fc5-44a9-bad1-76be9700301f,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$69,1,3,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+e13a2079-528e-4a5f-a6df-3f55fd0b806f,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$61,0,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+8b23cfd8-6eb4-4dc1-80a1-0a6d3791a5be,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$141,1,6,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+8ab5840c-9c1d-4488-8a0f-790fda8d0aba,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+357de51f-1a42-4665-9daf-926c12ffb303,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+4699195c-d633-4a13-a52b-aa33ae60b35f,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+64512321-6c54-403a-be49-78913e74ae7c,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+a6bfc9b2-6a3a-4d4d-b212-6d82c6f49d0f,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+1a38d38a-9466-440a-84c9-78afc9bd6677,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+c6d88159-b905-4e0f-abfd-ad8f337446bb,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+00b16bb4-71d4-4175-98fa-42670aa0cae5,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+09c08384-dce2-47f9-9b03-0555499a84ee,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$45,2,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+61d33e47-6328-4441-97d9-8de396154dfb,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$62,0,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+114fc390-a530-49b3-a246-b7c3a78411a2,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+ada29bd1-a20e-438e-a772-39881d9bfa71,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+5ab18247-f061-4b90-aad3-d64d4ac8e248,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$183,1,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+1c637d7e-4524-4243-b997-f0e39b7e3426,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$104,1,4,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+28eb44bd-c491-4712-9a13-afe30ad475e3,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+49a618d4-5726-42da-813d-b22514cd8aee,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+aa6e567b-e8d5-46db-aa0d-0f7d4c7373d0,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+a8fa15a4-c704-40cb-a14e-b667e29bce17,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+90518132-7f3d-4ad7-ab73-d6f4fccfcb15,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,"$1,395",14,51,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+7d9fc543-fd43-4386-83d9-2edd5ff92851,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$455,4,19,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+8dd9c272-ca6a-4ccb-8596-c3916fe63692,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+9650e1c0-2377-4f6b-9207-b70bb89003a2,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+70fe4a24-b0a7-4e79-8aa9-d71c753cfe47,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+86583bec-9b3a-4b67-940d-c3ba5a422d81,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+dc09adfe-a3d2-44ad-b57d-d36184f9a436,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+8ea7b558-da13-47be-a53b-b99c209e7010,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+b76289bd-c4c0-40cf-a7ca-2b792982e2c7,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+53edba29-2381-46fc-bc75-fd453cd43331,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$26,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+aea75c0f-396e-41bf-b0e0-fcd2dd28d480,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+8b058489-3e24-41e5-a35d-4cd502cc1b3c,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+51b93a7e-8dab-4171-bf75-ed45b651f043,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$682,6,27,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+9b747f90-68f6-47a5-8d4d-af702c8e16d2,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$308,1,10,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+c3144c6a-68e0-41c5-b055-b4c29f611f3a,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$258,0,8,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+92446499-b8bc-492b-9b8a-d2efd67e7491,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$215,0,9,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+da299fa4-8038-412e-ab32-c9064bb8d90a,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$302,5,11,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+2909bdee-ed2f-4584-90a3-771fc86e4278,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$135,2,5,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+5a66b33c-14b3-4a25-91d2-c2144a7ca3bb,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$492,1,14,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+f261845a-1f8e-46ce-b675-e7b431bfd59d,"Buy 1, Get 1 Free",ACTIVE,"Jun 25, 2025","Jun 30, 2025",1,All customers,$372,2,10,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+b084f7be-73be-44d2-b13c-035031de6842,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$106,2,4,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+f51b8a09-5c04-4b3f-82e6-38f949eb4ba3,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$203,2,6,0,Big Mac®,QSR Executive Enterprises-June23-June29
+d9c9b980-0111-4a09-9fd7-ff719d4a8354,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$95,1,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+0afa0590-3339-4600-ad4b-af9956b9c384,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$59,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+28672d45-588c-4550-99a6-c2bc34ceb441,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$34,1,1,0,Big Mac®,QSR Executive Enterprises-June23-June29
+88235006-81b9-4378-9837-371a75a61a5a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$30,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+3e23a9b4-6852-4787-b099-c5a3129bc1c7,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$28,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+c6e3fd87-c324-4f8b-bd4e-3f6e61f5bee7,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$98,0,4,0,Big Mac®,QSR Executive Enterprises-June23-June29
+75f43a3c-2453-48e3-b300-7cc4b220215a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$40,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+58fcd6ca-4f5e-40e2-897e-2738f4cb6e90,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$26,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+78eec1a2-7714-4c31-8297-dd1c45938841,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$169,2,3,0,Big Mac®,QSR Executive Enterprises-June23-June29
+24a822af-a42e-4aa4-98c4-f43c1cce7fcd,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+3c972b4a-23e3-453d-b855-03d270a864bd,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$30,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+32a4b4f6-b1a2-42a0-ba23-a7f52b2e962f,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+d11c260d-7ee8-4012-863c-ab510f7eab71,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$16,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+6cc8d889-12a0-4955-b401-61b3c647c077,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+2edff3fa-b322-4c86-8030-23942205254b,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+f56f7177-906a-4acb-ae6d-5afdd033f7bc,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+047ddb70-825d-45d3-b599-e4c36da1555b,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+7199f341-b46b-4062-a87e-22836ce342ec,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+c7471e8c-3588-40a7-b6b7-d9a3c0b8ace4,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+4e4873a6-7798-4723-a296-95e57c7771af,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+99bf394b-0236-49d3-8421-35d78715247c,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+adc6121a-9c1f-4542-90bf-de8da1ce0f44,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+b24e64a8-f116-4863-8fb3-06bd07c4aa93,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+775843a0-026a-41a6-8f3c-d8fbeefb6413,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+039e362b-972e-419d-bac1-9950ee43f44d,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+aaa04dde-43b3-4eac-82c8-dea0935d1aee,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+625c952a-fc9d-414c-8270-d434129babc1,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+d5e3f2b8-2b8f-4ec4-84ae-8b534e9bd611,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+fc0d9b9c-5a72-4fd7-91b2-f805cd930267,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+ea167fd8-318b-4c32-8eeb-a25d1ca5ae90,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+4a691350-7295-444e-9a07-06c5a55c3e43,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+f51a2948-c42d-467e-b01f-3c4c3b8dd0ab,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$108,3,5,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+cca5a718-02ab-4086-a320-6e053f838049,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$195,0,6,0,Big Mac®,QSR Executive Enterprises-June23-June29
+f06bcaf4-6201-4df4-95f6-5bb08e15e949,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+dcad557b-7657-40da-84d2-c40f46305dc0,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+17236c2f-e0ff-4efa-80eb-50664c3553ab,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+e48c6955-5963-4de3-99dc-7ea6112bfa6a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+74fb9b9b-6997-48ca-9979-84deec1f7de8,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+7a17e86c-8393-4a86-96b5-324afe3a392a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+21da2e0b-e606-4cbb-a104-d1d080f80750,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+ccbdb149-5caa-4bb6-beff-e5e8d4c40391,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$393,5,16,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+5c74a4a0-8d05-4b56-bb88-390ccb2434b1,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$565,9,24,0,Big Mac®,QSR Executive Enterprises-June23-June29
+eb81f351-5221-4b98-8f4e-eb286f6149a1,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$107,0,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+01d49892-8baf-4f44-a49a-46159fe1aea5,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+1b0cbf3b-ee7c-43dc-b881-19b72de5f68f,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+34b6b52e-7182-450d-ba96-c7ac84719e56,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+2c62238a-3d6a-469e-86d0-ba601de22b84,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+d819f4c1-a1cf-4446-91ea-87246e616637,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+cfbcdede-6452-4599-b2b7-07d40c95ab4c,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+b95b933f-915b-411d-96f9-c9e50980a10a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+a87a9051-3e0e-4be7-8bd7-cd1fa035a5da,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+7443d664-60a4-4f3a-a614-c3eb76cd51a2,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+c34b8d71-0922-4d98-a7dd-129e041ce9f6,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$26,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+b24aaba9-0467-484d-b8a9-c59923c0e89a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+3c019507-81d9-43da-a7c5-bb3f0d976273,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+69ed696d-3dbf-4dad-9b94-ef1c8cc733a6,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+2f17f2e6-4326-4761-9ce2-dae091c5c9ab,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+90586aa2-5456-47c9-9dd1-66a8f35107df,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+01fbc266-bed4-49be-9a31-22dd5a23aa4b,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$23,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+6d6ae74c-874d-46ad-a11d-13a3726a435a,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$257,1,7,0,Big Mac®,QSR Executive Enterprises-June23-June29
+61f4bb7e-48d5-4d40-bb92-b8947829c59c,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$165,4,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+d2a401ba-79ee-48d2-bb4c-18abf0ddbb8e,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$99,0,3,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+c4e0fe2c-7e93-4eba-b876-46287a983da5,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$96,2,4,0,Big Mac®,QSR Executive Enterprises-June23-June29
+895c58f7-263f-4e2f-8678-e41b2afbeef5,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$15,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June23-June29
+348d4ec3-5e35-47cd-bb8e-17d53384fef9,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$119,0,5,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+da0522a6-d245-42a3-bdcb-b7760219ae94,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$180,0,6,0,Big Mac®,QSR Executive Enterprises-June23-June29
+dd382f5f-46d1-4127-9c0f-dbfac2ad3983,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+a99048ea-cf8f-408a-9637-2f791148fdb0,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,All customers,$92,2,4,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June23-June29
+db9c1c81-b8f4-4a37-9613-80aac790b6cd,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$127,2,4,0,Big Mac®,QSR Executive Enterprises-June23-June29
+9a151a17-c051-407d-8d6c-2c39e5ef4627,"Buy 1, Get 1 Free",COMPLETED,"Jun 16, 2025","Jun 25, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June23-June29
+513aa248-c0e3-4c40-af19-63f25490ad33,$0 Delivery Fee,ACTIVE,"Jul 2, 2025","Jul 10, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-June30-July6
+794f7976-8dc2-484e-a375-60c02b9217ba,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$196,4,5,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+b5b133f0-2ce8-419a-a6a6-535ec63d4950,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$29,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+8ef2621b-0204-4be3-b620-032c23f94d7e,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+6a1931dd-77c7-4e0b-84d2-20354ccb5426,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$26,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+2067fca7-10e8-48b7-8d7c-018a7e1b1317,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+cc465235-b238-4e6c-8071-76cb0c9704b0,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$47,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+f6c44b21-8121-4268-aeb0-c9fc960afb35,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+e552ce76-da8d-4780-aea4-e4f7942ac75d,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$439,4,11,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+43f229bb-c7e2-4c06-84cb-10e0d80146c7,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+1f188105-361c-498a-bf60-9344389c2ddc,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+7bb3f560-f178-4dcf-a0ed-6d19b64e6c2e,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$71,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+3bc9dae6-447e-46c8-84b9-c06774993344,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+7d630270-02da-47a6-9ecf-b1fcf30ef7c6,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+f49d0833-1094-4c0c-b365-59d232292332,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$28,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+ee7df889-eba2-42b4-9c05-f25608403a0c,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$432,8,16,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+2c37199c-7437-4252-9157-0a074e2ebac5,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$26,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+c74e04b0-09c0-4c09-ae83-abe35b5b13a4,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+3675f34f-1569-4d86-bba0-5e7617c69282,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+5e21c392-6c9e-4f22-9092-b8e40cef719d,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$71,0,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+d3ed1107-5409-4d79-8c76-b3ce8ae91704,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+77871b07-2b30-419b-a53d-032a6f52cc49,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$48,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+e4b1a214-3379-4f4a-a06a-93ad41bd87ce,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$113,3,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+13060850-8a80-4333-a60d-ed56bdc1f7fb,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$287,3,8,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+f710f468-cba0-4057-ab7b-b59660201a66,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$248,2,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+78baf9a3-884e-440e-9af2-8aeef3e07b8d,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$53,1,2,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+3e1086e2-e3ae-4136-9761-04e8daf4b0f5,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$23,0,1,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+d7c45f93-3c8d-4680-ba48-9aa801d98274,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+4da83d81-297a-49b0-9855-cbf7f79973e7,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$57,1,2,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+c4e3b93e-f8d1-4cfe-bd2d-f99c87d7645d,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+0aa1c620-bdb9-4f1b-b0ef-c7ef5b226c7c,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+693530a6-aaa4-4536-b549-9bae17fb6f95,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+6edcea55-a21e-478d-b336-9e55f4bf9acc,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$437,2,14,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+fcd04924-b765-4478-a602-5f00badc2292,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+368643ac-e919-46cd-80ba-178883b72e30,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+379caa2b-bcb2-46fb-898d-c682e3115996,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$55,0,2,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+2076d5a8-4f2d-402d-a34f-3cff59e5f38a,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+a6c48a0d-1190-41da-9cd5-c0da1a7512c9,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+d336994f-de4c-48d8-afca-b84b9fa8a10a,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$124,0,3,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+625f2607-dcf2-428b-b3ca-9ce28076db47,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,"$1,383",8,46,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+76b8a99c-4778-492e-8cac-37b78036ed28,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$167,0,6,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+1e56c43c-34c3-40c4-a497-3c99be19a203,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+cf249d7b-0769-4ec8-8434-473d2dfd64cf,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+c41211b2-2d7a-48ca-b583-b4facbdfd66b,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$289,0,8,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+5de2e998-248d-4745-8626-4f0ffc8c0dcf,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+b2842072-e410-4855-bef5-e1a75b4fcb87,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$253,0,8,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+b2023bb7-b3e5-471f-ad75-577c92717b85,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$335,2,11,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+977aaf6e-21bd-408f-8a26-f7226ef44fbc,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$450,4,16,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+67329870-d1f8-4288-a6e9-8df4cdf065ac,Free Item (Spend 15),COMPLETED,"Jul 2, 2025","Jul 6, 2025",1,Custom audience,$92,1,3,0,Medium French Fries,QSR Executive Enterprises-June30-July6
+a1100b8b-9dbf-49b1-9ab4-b5121a6f3647,$0 Delivery Fee,COMPLETED,"Jun 29, 2025","Jul 6, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-June30-July6
+5b21461b-52eb-4a1c-8426-391a63db32d7,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$24,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+4fef7c6e-f965-4196-93a3-3ae224e51404,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+70fe4a24-b0a7-4e79-8aa9-d71c753cfe47,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+86583bec-9b3a-4b67-940d-c3ba5a422d81,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+c6d88159-b905-4e0f-abfd-ad8f337446bb,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$37,1,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+00b16bb4-71d4-4175-98fa-42670aa0cae5,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+09c08384-dce2-47f9-9b03-0555499a84ee,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$23,1,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+61d33e47-6328-4441-97d9-8de396154dfb,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+8dd9c272-ca6a-4ccb-8596-c3916fe63692,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+9650e1c0-2377-4f6b-9207-b70bb89003a2,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+114fc390-a530-49b3-a246-b7c3a78411a2,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+ada29bd1-a20e-438e-a772-39881d9bfa71,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+a6bfc9b2-6a3a-4d4d-b212-6d82c6f49d0f,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+1a38d38a-9466-440a-84c9-78afc9bd6677,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+204da8f0-004a-4d0c-8cfd-293418c50829,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$96,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+ca7e1dba-deb9-42cf-b610-b4d71d9f197d,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$66,0,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June30-July6
+28eb44bd-c491-4712-9a13-afe30ad475e3,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+49a618d4-5726-42da-813d-b22514cd8aee,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+dc09adfe-a3d2-44ad-b57d-d36184f9a436,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+8ea7b558-da13-47be-a53b-b99c209e7010,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+366ccc5c-6127-48c7-8b56-e75b23cb3ad7,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$15,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+055ff2aa-2fc5-44a9-bad1-76be9700301f,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+4699195c-d633-4a13-a52b-aa33ae60b35f,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+64512321-6c54-403a-be49-78913e74ae7c,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+b76289bd-c4c0-40cf-a7ca-2b792982e2c7,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+53edba29-2381-46fc-bc75-fd453cd43331,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+e13a2079-528e-4a5f-a6df-3f55fd0b806f,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$16,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+8b23cfd8-6eb4-4dc1-80a1-0a6d3791a5be,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+90518132-7f3d-4ad7-ab73-d6f4fccfcb15,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$258,3,10,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+7d9fc543-fd43-4386-83d9-2edd5ff92851,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$108,0,4,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June30-July6
+5ab18247-f061-4b90-aad3-d64d4ac8e248,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$69,1,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+1c637d7e-4524-4243-b997-f0e39b7e3426,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+aea75c0f-396e-41bf-b0e0-fcd2dd28d480,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+8b058489-3e24-41e5-a35d-4cd502cc1b3c,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+8ab5840c-9c1d-4488-8a0f-790fda8d0aba,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+357de51f-1a42-4665-9daf-926c12ffb303,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+48e68fcc-abca-4315-ad2a-da670734741e,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$74,0,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+59e74f9d-4196-42a7-ab1a-1730225fcfb3,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+aa6e567b-e8d5-46db-aa0d-0f7d4c7373d0,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+a8fa15a4-c704-40cb-a14e-b667e29bce17,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+da299fa4-8038-412e-ab32-c9064bb8d90a,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$24,1,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+2909bdee-ed2f-4584-90a3-771fc86e4278,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+5a66b33c-14b3-4a25-91d2-c2144a7ca3bb,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$33,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+f261845a-1f8e-46ce-b675-e7b431bfd59d,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$26,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June30-July6
+51b93a7e-8dab-4171-bf75-ed45b651f043,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$94,1,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+9b747f90-68f6-47a5-8d4d-af702c8e16d2,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$65,0,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-June30-July6
+c3144c6a-68e0-41c5-b055-b4c29f611f3a,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$86,0,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-June30-July6
+92446499-b8bc-492b-9b8a-d2efd67e7491,"Buy 1, Get 1 Free",COMPLETED,"Jun 25, 2025","Jun 30, 2025",1,All customers,$0,0,0,0,,QSR Executive Enterprises-June30-July6
+9dc51b51-ed38-4548-95d3-9c7174298c79,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$3,268",36,115,0,Egg McMuffin®;McChicken®,QSR Executive Enterprises-July28-Aug3
+b544bb4a-871a-42d5-8306-8bd98ce7d984,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$10,909",102,375,0,McDouble®;Sausage McMuffin® with Egg;Hotcakes;Sausage & Egg McMuffin®,QSR Executive Enterprises-July28-Aug3
+93e8e17b-cbfa-4572-bfb1-dfeeb8c4211b,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$147,0,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+c28f29e7-1a09-4744-81d4-e9a0a94a4a29,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$42,0,1,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-July28-Aug3
+3025a4dc-3595-49f6-bda4-a33300098d09,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$213,0,6,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+d40cbca5-d859-4e7a-9496-354c62246b56,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$44,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+c36831f8-b463-488e-bcd9-0f9377da7f08,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+42753131-ad56-4c8e-9a16-aad50685bdcc,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+85755c41-9e58-4c91-beeb-82370decab12,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+f3dbe330-240e-4e72-9918-165c5187b360,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+4b6fbe96-2cad-4bb6-8f89-bee4f956a44c,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+c8d87059-aa27-4f11-8af4-1c31319075a2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+dcd85ded-e078-4826-959c-080908833d7e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+190f6527-0afe-49a9-bf92-f843eed1798c,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+aba980d1-7444-4aac-849e-b6424e291f05,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+8a26eb85-37ca-4285-9bd6-6450e525852e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+c5487973-b974-4e6c-bf84-b887d8c7e658,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+fd8a76fa-930d-4068-8010-82eabf52d69e,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+6234f791-c3de-4914-9aa3-d792ef62d2da,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$136,2,5,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+46729c27-e92e-4edd-bfb2-3688c6cde7ed,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$175,0,8,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+4fcf870e-1dc6-41b1-b415-6a153126ed40,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$19,1,1,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-July28-Aug3
+9c7b6095-a6e3-45ff-a1bf-b0192545a323,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$162,0,4,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+49fa29c0-917d-4a80-931d-5c48e1869aac,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+9d9cdab3-3cbb-4067-869a-5d6e4a640d72,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+6e672b0e-d68a-4f50-9e00-f885208e1369,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+385445a8-03e3-43d7-a4e5-0711e7fce359,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+504edf40-fcf9-437d-a890-eeac316da215,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$85,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+c562e7bf-d63e-4f1d-b9c8-2760244c9884,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+5a27c8da-d758-4695-a572-8980a0c5e4ee,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$143,0,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+74f54631-885e-4d51-be23-783de1644313,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$76,1,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+126fcb7b-e9ba-4444-9e59-2dee60845b2d,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+0adfc1c4-9007-45da-a325-2ccd04f411e1,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+abaca11b-1218-44f7-9d56-3ea816083068,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+581c14d9-deaa-4585-adf1-94b250012078,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+dc93a4d4-1cea-4b12-8990-ca1665cfc2bd,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$15,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+9953378e-f1e4-4afd-964d-6a496c79586a,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$99,0,4,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+c107e2f9-30a6-4d57-8dec-97ca7f0c58c8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+8090dc11-0eb2-4323-948c-3f0a9086f39e,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$80,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+e63cb29c-99d5-4c4d-9d66-3d2c551681c4,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$197,5,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+757316d1-5ff1-4070-93c6-43259d1c5199,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$160,0,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+c15a0071-660f-4176-8a91-2816b30bb961,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$178,1,4,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+d524d392-7c1d-49f7-8337-18a2cac03eed,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$178,0,8,0,Sausage McMuffin® with Egg;Sausage & Egg McMuffin®,QSR Executive Enterprises-July28-Aug3
+c2cca2c9-1dce-473e-b506-b5f868f3954b,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+08a5bfd9-e15c-49f5-bc1f-53ea71d5232e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+88b4a36f-04d3-45a2-b33b-2587864c8729,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+eee5ec91-96d5-48ef-b184-88344527a3ee,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+9701d540-7cb3-47dd-a0af-628015cd42c6,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$28,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+b18b5966-27c3-47b4-9448-5e629b5667e2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$29,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+714d4382-72bd-406f-85b3-da644ea90714,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+c1f2ed94-4a5a-4edc-9d3e-955c87d9e1c8,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+0f4bc191-0749-428d-8d8f-e899b5926b3a,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+055fad2f-86e7-4a18-bf6d-29c18db8bcae,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+d9afab66-e8ff-4e34-8d1c-45b6f5a7168f,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+e34fbfcd-eef7-46ec-8523-e46b47d64496,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+28f98f24-4723-4cf6-af11-8398333a94e8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+6306dfa5-d33e-4e35-a605-ca2e1f49d696,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+ba2163c9-036d-474c-8aa6-d23541f82e0e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+d58c7cc2-38d5-488b-b291-87b78121f540,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+3ca3a660-03cc-46bb-9513-eb0dab75391c,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+8e155fb5-37bc-4de2-a42a-f5c164b3e546,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+68b17296-870a-4d35-9bb6-3a59b75fc6cb,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+d6954ac4-b830-4cdb-8c0c-003f77192b7b,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+8d36bff4-fff8-44a2-bf57-48a0d429b200,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$309,5,8,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+b8da469e-8524-4c30-9488-8682868d213e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$997,8,30,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+515919b8-e37c-4edf-9587-1cc22d6557f9,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$138,2,5,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-July28-Aug3
+7739d48c-f703-4ec1-bd07-84c98d3613ca,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$78,1,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+2be7f7e3-7028-4f6e-8bd5-2a7cc03b2456,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+40276ab9-6862-41fe-beaa-b48b93a2f817,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+8bf2712b-1a56-41a4-9f0c-6c6264f84212,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+a009e40f-244b-48b0-8dcd-3439431b90d1,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+30e0c5ee-9495-4c91-b159-8a9f81e492c7,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+29335ccf-24d0-4b65-8434-0b70eebed35d,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+a1485df5-7845-49f0-9654-5fd5d6daaf3f,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+de6fc617-331d-4c60-b316-6bcefb9d47d5,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+b4508b87-f3a1-4e41-a4be-eb61342965e2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$882,18,28,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+325880a8-b927-49c7-a111-9db381a6f7d8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+604d67c4-12af-4c05-8f64-c0ed54632d17,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,"$2,281",13,77,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+0178496c-c1b2-4f64-a11a-dae73d15d6c1,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$331,2,7,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+66ad3691-9b3d-4d99-a671-e00402819184,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+614972ad-4a7f-4f1a-8ef7-e8b12b3bfd94,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$38,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+18d816a0-8d59-4b9f-afea-7f390e305342,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+57e31c5d-17e1-4caa-aa42-9c501ac5f6fd,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+799aca2d-7d40-4b59-81ea-4e689656266e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$239,2,7,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+b1102664-0294-4677-9d7a-e17b959b73fe,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+ee4f800f-37fd-4881-886b-ae79517c0446,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$587,1,18,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+04628204-412a-4b8d-9703-07808814db5f,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$179,0,4,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+a633d187-51bf-4999-a16f-fea3cedcfeb7,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$49,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+ada6526d-ab91-4037-be88-e5e1a20d85ba,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+951f7f22-99f2-499b-82b0-ae9f0b90b8bc,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$457,1,16,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+01cd1a6f-0896-4ee3-a3d5-0ee3d0fbbdc6,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$197,1,5,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+6867733e-5893-4724-b443-dac65808944e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$316,5,9,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+200a38c3-1d0f-4a12-8b26-a7d1123855d2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$627,1,21,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+9b41b7b7-0762-4081-ada5-61968240bb36,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+3bd7ab0a-13ce-41f2-8f9c-82e330b76891,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$114,0,3,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+16eab225-74a7-4928-8a5c-c7d0b7f85990,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$209,2,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+64f69887-3753-4f6b-963a-dc249d1284d5,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$421,1,13,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July28-Aug3
+a7645078-bb9c-4365-8f8a-178fe93968be,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July28-Aug3
+f09996c6-1af4-4947-89dd-c7b71e39d49d,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$54,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July28-Aug3
+a2f728e5-d798-4d19-afbf-58788ab0b796,$0 Delivery Fee,COMPLETED,"Jul 27, 2025","Aug 3, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-July28-Aug3
+9dc51b51-ed38-4548-95d3-9c7174298c79,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$2,765",22,92,0,Egg McMuffin®;McChicken®,QSR Executive Enterprises-Aug4-Aug10
+b544bb4a-871a-42d5-8306-8bd98ce7d984,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$9,098",71,321,0,Hotcakes;McDouble®;Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug4-Aug10
+ecff79f8-a8d7-435f-b7fa-fc3d37795f1c,$0 Delivery Fee,COMPLETED,"Aug 3, 2025","Aug 10, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-Aug4-Aug10
+3ca3a660-03cc-46bb-9513-eb0dab75391c,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+8e155fb5-37bc-4de2-a42a-f5c164b3e546,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+68b17296-870a-4d35-9bb6-3a59b75fc6cb,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+d6954ac4-b830-4cdb-8c0c-003f77192b7b,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+c2cca2c9-1dce-473e-b506-b5f868f3954b,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+08a5bfd9-e15c-49f5-bc1f-53ea71d5232e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+88b4a36f-04d3-45a2-b33b-2587864c8729,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+eee5ec91-96d5-48ef-b184-88344527a3ee,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+0f4bc191-0749-428d-8d8f-e899b5926b3a,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+055fad2f-86e7-4a18-bf6d-29c18db8bcae,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$31,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+d9afab66-e8ff-4e34-8d1c-45b6f5a7168f,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+e34fbfcd-eef7-46ec-8523-e46b47d64496,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$91,0,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+dc93a4d4-1cea-4b12-8990-ca1665cfc2bd,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$31,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+9953378e-f1e4-4afd-964d-6a496c79586a,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$86,0,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+c107e2f9-30a6-4d57-8dec-97ca7f0c58c8,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+8090dc11-0eb2-4323-948c-3f0a9086f39e,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+8d36bff4-fff8-44a2-bf57-48a0d429b200,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$170,1,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+b8da469e-8524-4c30-9488-8682868d213e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,"$1,075",5,28,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+515919b8-e37c-4edf-9587-1cc22d6557f9,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+7739d48c-f703-4ec1-bd07-84c98d3613ca,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$38,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+49fa29c0-917d-4a80-931d-5c48e1869aac,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+9d9cdab3-3cbb-4067-869a-5d6e4a640d72,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+6e672b0e-d68a-4f50-9e00-f885208e1369,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+385445a8-03e3-43d7-a4e5-0711e7fce359,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+4b6fbe96-2cad-4bb6-8f89-bee4f956a44c,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+c8d87059-aa27-4f11-8af4-1c31319075a2,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+dcd85ded-e078-4826-959c-080908833d7e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+190f6527-0afe-49a9-bf92-f843eed1798c,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+aba980d1-7444-4aac-849e-b6424e291f05,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+8a26eb85-37ca-4285-9bd6-6450e525852e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+c5487973-b974-4e6c-bf84-b887d8c7e658,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+fd8a76fa-930d-4068-8010-82eabf52d69e,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+e63cb29c-99d5-4c4d-9d66-3d2c551681c4,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$155,1,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+757316d1-5ff1-4070-93c6-43259d1c5199,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$43,0,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+c15a0071-660f-4176-8a91-2816b30bb961,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$44,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+d524d392-7c1d-49f7-8337-18a2cac03eed,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$94,1,4,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug4-Aug10
+b4508b87-f3a1-4e41-a4be-eb61342965e2,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$266,4,9,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+325880a8-b927-49c7-a111-9db381a6f7d8,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+604d67c4-12af-4c05-8f64-c0ed54632d17,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,"$2,139",12,71,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+0178496c-c1b2-4f64-a11a-dae73d15d6c1,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$80,1,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+66ad3691-9b3d-4d99-a671-e00402819184,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+614972ad-4a7f-4f1a-8ef7-e8b12b3bfd94,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+18d816a0-8d59-4b9f-afea-7f390e305342,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$67,0,3,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug4-Aug10
+57e31c5d-17e1-4caa-aa42-9c501ac5f6fd,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+2be7f7e3-7028-4f6e-8bd5-2a7cc03b2456,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+40276ab9-6862-41fe-beaa-b48b93a2f817,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+8bf2712b-1a56-41a4-9f0c-6c6264f84212,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+a009e40f-244b-48b0-8dcd-3439431b90d1,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+504edf40-fcf9-437d-a890-eeac316da215,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$84,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+c562e7bf-d63e-4f1d-b9c8-2760244c9884,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+5a27c8da-d758-4695-a572-8980a0c5e4ee,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$220,2,4,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+74f54631-885e-4d51-be23-783de1644313,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$37,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+126fcb7b-e9ba-4444-9e59-2dee60845b2d,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+0adfc1c4-9007-45da-a325-2ccd04f411e1,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+abaca11b-1218-44f7-9d56-3ea816083068,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+581c14d9-deaa-4585-adf1-94b250012078,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+93e8e17b-cbfa-4572-bfb1-dfeeb8c4211b,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$31,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+c28f29e7-1a09-4744-81d4-e9a0a94a4a29,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$49,1,2,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug4-Aug10
+3025a4dc-3595-49f6-bda4-a33300098d09,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$117,0,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+d40cbca5-d859-4e7a-9496-354c62246b56,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$77,0,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+c36831f8-b463-488e-bcd9-0f9377da7f08,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+42753131-ad56-4c8e-9a16-aad50685bdcc,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+85755c41-9e58-4c91-beeb-82370decab12,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+f3dbe330-240e-4e72-9918-165c5187b360,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+28f98f24-4723-4cf6-af11-8398333a94e8,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$21,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+6306dfa5-d33e-4e35-a605-ca2e1f49d696,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+ba2163c9-036d-474c-8aa6-d23541f82e0e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+d58c7cc2-38d5-488b-b291-87b78121f540,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$44,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+6234f791-c3de-4914-9aa3-d792ef62d2da,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$259,3,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+46729c27-e92e-4edd-bfb2-3688c6cde7ed,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$112,0,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+4fcf870e-1dc6-41b1-b415-6a153126ed40,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+9c7b6095-a6e3-45ff-a1bf-b0192545a323,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$169,1,4,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+30e0c5ee-9495-4c91-b159-8a9f81e492c7,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+29335ccf-24d0-4b65-8434-0b70eebed35d,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$31,1,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+a1485df5-7845-49f0-9654-5fd5d6daaf3f,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+de6fc617-331d-4c60-b316-6bcefb9d47d5,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+9701d540-7cb3-47dd-a0af-628015cd42c6,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$24,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+b18b5966-27c3-47b4-9448-5e629b5667e2,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$109,0,2,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+714d4382-72bd-406f-85b3-da644ea90714,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+c1f2ed94-4a5a-4edc-9d3e-955c87d9e1c8,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+16eab225-74a7-4928-8a5c-c7d0b7f85990,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$28,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+64f69887-3753-4f6b-963a-dc249d1284d5,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$349,0,12,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+a7645078-bb9c-4365-8f8a-178fe93968be,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+f09996c6-1af4-4947-89dd-c7b71e39d49d,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+799aca2d-7d40-4b59-81ea-4e689656266e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$167,2,5,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+b1102664-0294-4677-9d7a-e17b959b73fe,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+ee4f800f-37fd-4881-886b-ae79517c0446,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$641,1,21,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+04628204-412a-4b8d-9703-07808814db5f,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$126,0,3,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+a633d187-51bf-4999-a16f-fea3cedcfeb7,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$54,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+ada6526d-ab91-4037-be88-e5e1a20d85ba,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+951f7f22-99f2-499b-82b0-ae9f0b90b8bc,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$560,2,17,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+01cd1a6f-0896-4ee3-a3d5-0ee3d0fbbdc6,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$121,0,3,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+6867733e-5893-4724-b443-dac65808944e,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$245,6,8,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+200a38c3-1d0f-4a12-8b26-a7d1123855d2,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$826,2,27,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug4-Aug10
+9b41b7b7-0762-4081-ada5-61968240bb36,"Buy 1, Get 1 Free",COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug4-Aug10
+3bd7ab0a-13ce-41f2-8f9c-82e330b76891,Free Item (Spend 20),COMPLETED,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$66,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug4-Aug10
+cc0f6450-6dbd-4914-893f-2d1fa4c9fb48,$0 Delivery Fee,COMPLETED,"Jul 13, 2025","Jul 20, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-July14-July20
+94643e84-44c0-4fb2-94b2-eb1e001e5391,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$99,0,4,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+efb134e1-fd43-405d-8b53-d4e4ebb4d3aa,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$233,0,8,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+d47f8968-4d56-4656-94ae-b54317f7f510,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+fe1aa72a-58d9-40fe-b212-208f6cf7227a,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+734cee3a-6a25-4155-9ee8-19a766f200d5,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$32,0,1,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+caabc160-5347-4f31-9286-1ac486ad1ab6,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$23,0,1,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+2c1b2d6e-a2bf-46a7-886f-b58fe95c8cdc,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+362cf8d4-e37d-4e7a-93c3-3a1d93d85b61,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+d646803f-5e63-40a4-827b-87f0a3f723f9,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+cb4e91a7-2bd3-4589-b525-ad9f265d35c9,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$468,3,15,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+b5bbdf19-9772-48a7-858e-2d67be43eecd,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$175,1,6,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+8f73b6ff-f883-4911-a453-4064e427679c,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+2e010c37-d344-4d9f-b52a-d0193f2ad876,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$816,1,29,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+d6d4a9b8-5a45-4ba9-b747-b241c4fe93d8,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$193,1,3,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+6dcbcbee-75ac-4c4b-94d1-fed83465d876,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$429,1,15,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+78553756-e0fc-4964-8f53-0d70708a791c,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+36666304-5521-4a8f-a7d1-f908d7900ca0,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+91263a3b-2461-4694-82f1-16b4ccecbd39,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+7336b974-e736-44a8-8f75-1762a93a7ecd,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,"$2,030",10,77,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+f4add0fa-90e5-482a-96d3-aa012493395f,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+e4c800dd-ef89-405e-9046-30b610584a63,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$597,3,20,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+ea6c1aec-337a-4931-9ca4-ae40bf266bb0,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$473,2,16,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+3c47d53b-454f-4f87-ba69-2ad2fd22fa95,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$500,2,15,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+b051fbb1-4390-4556-8460-febc3afce126,Free Item (Spend 15),COMPLETED,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$321,1,11,0,Medium French Fries,QSR Executive Enterprises-July14-July20
+f49d0833-1094-4c0c-b365-59d232292332,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$69,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+7bb3f560-f178-4dcf-a0ed-6d19b64e6c2e,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$66,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+8ef2621b-0204-4be3-b620-032c23f94d7e,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+2067fca7-10e8-48b7-8d7c-018a7e1b1317,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+1f188105-361c-498a-bf60-9344389c2ddc,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+43f229bb-c7e2-4c06-84cb-10e0d80146c7,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$108,3,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+d3ed1107-5409-4d79-8c76-b3ce8ae91704,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+7d630270-02da-47a6-9ecf-b1fcf30ef7c6,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+3675f34f-1569-4d86-bba0-5e7617c69282,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+2c37199c-7437-4252-9157-0a074e2ebac5,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$23,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+794f7976-8dc2-484e-a375-60c02b9217ba,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$114,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+b5b133f0-2ce8-419a-a6a6-535ec63d4950,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$96,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+e552ce76-da8d-4780-aea4-e4f7942ac75d,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$90,0,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+6a1931dd-77c7-4e0b-84d2-20354ccb5426,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$44,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+5e21c392-6c9e-4f22-9092-b8e40cef719d,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$236,1,7,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+f6c44b21-8121-4268-aeb0-c9fc960afb35,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+c74e04b0-09c0-4c09-ae83-abe35b5b13a4,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+cc465235-b238-4e6c-8071-76cb0c9704b0,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+ee7df889-eba2-42b4-9c05-f25608403a0c,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$817,16,26,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+3bc9dae6-447e-46c8-84b9-c06774993344,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July14-July20
+77871b07-2b30-419b-a53d-032a6f52cc49,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$234,4,7,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+e4b1a214-3379-4f4a-a06a-93ad41bd87ce,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$241,7,8,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+13060850-8a80-4333-a60d-ed56bdc1f7fb,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$485,11,16,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+f710f468-cba0-4057-ab7b-b59660201a66,"Buy 1, Get 1 Free",COMPLETED,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$38,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July14-July20
+38caf32a-3ea1-40de-a731-6c1619ae7b29,"Buy 1, Get 1 Free",ACTIVE,"Aug 17, 2025","Sep 19, 2025",12,All customers,"$6,275",56,238,0,Egg McMuffin®;McChicken®,QSR Executive Enterprises-Aug18-Aug24
+334d50ca-0f22-4268-aab4-162181b711b5,"Buy 1, Get 1 Free",ACTIVE,"Aug 17, 2025","Sep 19, 2025",12,All customers,"$4,377",33,144,0,Sausage McMuffin® with Egg;McDouble®,QSR Executive Enterprises-Aug18-Aug24
+ba7e8b4b-c959-41e5-b127-15cc350aa1da,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+8389723a-abbc-4b3b-bed5-509b0d86d53b,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d5b479f7-4216-4b53-a2fb-1bdd18759bd5,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$4,185",29,150,0,,QSR Executive Enterprises-Aug18-Aug24
+ba9dfd7c-f936-4b26-997d-2c74683a3230,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+14ecd408-fdc0-4399-8d81-0b4048d431d2,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+5ac179d5-37bb-4c0e-832f-90f82eb581d9,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$22,1,1,0,,QSR Executive Enterprises-Aug18-Aug24
+eb88aff9-9c79-4ba5-aad5-9985e2761d9b,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+814359b8-040c-49cc-aad6-795158325818,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+bac57790-c6a3-4549-917e-c1461b5f2462,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ad158781-52b7-454b-a33d-b78b71f13015,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+bf195da0-de51-43be-af81-a5a7fcf6c090,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+9b6ca0eb-a39a-49d6-a9b5-5f8e3c254b1d,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$111,3,4,0,,QSR Executive Enterprises-Aug18-Aug24
+3f9dfb5e-b6bc-4844-809a-23b611741f91,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+af06a0eb-b157-483f-ac27-05dde3f7a99e,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+87b13ad6-9530-4f81-8692-6c14bf8fa3ef,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$241,3,9,0,,QSR Executive Enterprises-Aug18-Aug24
+42fb060b-176d-4287-9e0b-356e27574245,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+085dd79a-1a76-443a-9ae3-e49ceec5df5a,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+3c855b7a-6188-4108-8ee0-be4febf1d752,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$579,4,17,0,,QSR Executive Enterprises-Aug18-Aug24
+4876f1f0-7678-47f8-94f2-ec366f3a4b49,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+7551ee31-d693-44f8-a35a-35f696f2e775,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+720e5798-049d-4ff8-bcc7-19fc1c17bdbb,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$25,1,1,0,,QSR Executive Enterprises-Aug18-Aug24
+a42290d9-af90-4b4a-8a69-1cfe97701235,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d2139be1-f080-49b2-ba43-719af36a3de8,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d889bde4-97e2-4292-a825-f75b8c87c536,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$65,2,3,0,,QSR Executive Enterprises-Aug18-Aug24
+3436e56e-af6d-455a-83eb-14060038289a,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+966923e1-1055-4b56-a164-8317a0592280,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+44578753-c541-4784-8c1c-b0a4ff103f9d,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+56d4ca40-0a53-4545-ac74-67d306f514fa,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+3470ddcd-3176-40ae-a324-bfd7efc544a6,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+835fc088-186c-4169-8128-9b490fd6a854,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+617d46fc-9149-41e2-abb9-7dfac8ddf046,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4877288b-7ecf-4456-b5d5-343a71202d4d,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+95c963a7-b79e-4f36-ba93-9f22593ea2d7,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d1403528-20b1-468d-8ccc-81a7f77a56cd,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+6bd244b7-d387-437d-a9a7-7737ac75279b,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+0a35faca-eb25-4dee-8405-95d73a7ba93a,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$360,7,11,0,,QSR Executive Enterprises-Aug18-Aug24
+b17dfe8c-0540-4d20-a113-91e0302e587e,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+f5bd151d-eb73-431e-b3df-51295cecc755,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+62cfb739-029a-4e50-b1f4-9b8194e6396f,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$250,1,9,0,,QSR Executive Enterprises-Aug18-Aug24
+815450fa-74bb-4941-a67c-3599bf15c4bc,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+3849edf1-9f40-420b-976d-40497f83049f,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+7fb8a7d8-3fbc-457b-b266-b15ef448fe6b,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,039",2,36,0,,QSR Executive Enterprises-Aug18-Aug24
+76fba9b6-002e-4807-9bc6-e2bf97faaff9,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4669c368-d9de-42d1-b04c-56fa6f26b3f5,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e11ff0df-da59-4db3-b027-ca721b8ddbbe,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,426",6,46,0,,QSR Executive Enterprises-Aug18-Aug24
+adadc4ea-aa32-40da-8925-7ee83e7fe390,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e85e647a-44ac-4e29-87e7-0fb224ae54f1,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+fb40b62b-7471-4a16-9117-37380b99d5d7,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+cb6a5adb-c9ac-4a06-92a9-bbc164f9a86c,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+84715513-4e70-4740-8fc9-266f7b9710bf,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+1628c8e0-08ac-46db-ac7a-9f00cd52e77c,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$52,1,2,0,,QSR Executive Enterprises-Aug18-Aug24
+da06a918-49ec-4d70-8651-0ca28dfbc261,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+92333cd0-00f4-4bd8-820d-776fec603c75,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+bfb05ef0-601a-4bd4-84f9-e026e00f6805,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$2,105",12,62,0,,QSR Executive Enterprises-Aug18-Aug24
+e39cfbd9-058c-4302-8165-ba7a0d244a5d,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4ae960b1-9842-4b58-9a5d-1b64c25e1b88,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+8f5145ba-6fa2-4feb-b6c4-e33a6554cccc,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+a2586f2c-1a59-4499-a477-ea07948283e7,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+6ac6c365-0b05-427e-ab3e-c5d5d9ee2ee9,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e094c225-91be-4c36-9642-a108faeddfd9,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$56,0,2,0,,QSR Executive Enterprises-Aug18-Aug24
+68f3a6fc-e970-4151-9ca3-cd6a5a684df5,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+de7c9790-e85e-4c8b-b53e-62093fe94b80,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+fc61ce80-4a86-40a7-9c34-8eae76c45332,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$500,1,17,0,,QSR Executive Enterprises-Aug18-Aug24
+43605a2c-9035-434f-b725-27df25d474e3,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$39,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug18-Aug24
+16391330-d6cd-4a9c-bbf6-29b0c7b62831,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b41fb126-77fb-4857-b28c-9d53b911b5a1,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,707",5,61,0,,QSR Executive Enterprises-Aug18-Aug24
+e3e028ae-3657-4ae2-a92a-562bf79db82b,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+72a931e5-970d-4736-bd7f-861772914957,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d739ec1a-c345-47f3-834e-ca4349983712,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,077",6,35,0,,QSR Executive Enterprises-Aug18-Aug24
+aa06ea00-0692-4e22-b338-8f871a36ecf1,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+68dc82ce-66a5-4ae1-a2f1-9b72074c5fdb,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$42,0,1,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug18-Aug24
+a4fdc306-b85c-4f61-83ca-9d8da42d4461,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,263",9,40,0,,QSR Executive Enterprises-Aug18-Aug24
+4a2de74d-73eb-43be-985d-7ce3e9279f5f,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b8e79807-55f5-4d14-8481-6ae6955647e4,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+f19c0432-1e8f-4e84-b92e-da393743e247,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+55ca95b2-ec18-4f10-bc08-083a566ad20b,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e2a5dfd3-91d2-4a06-a5dd-1da82562e3ac,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ac6d775f-a391-4caf-b552-48c191cffe81,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ebd91381-eb6d-4215-836d-3aaeeaab2bd4,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d288e3c2-2b31-41b3-9631-ba678e4c6ce8,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+1fe863a0-381e-48f0-bb80-149c721a479f,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+399ceed3-e074-4360-b204-8fab89c031bb,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b544bb4a-871a-42d5-8306-8bd98ce7d984,"Buy 1, Get 1 Free",CANCELED,"Jul 21, 2025","Jul 22, 2026",12,All customers,$719,4,26,0,Hotcakes;McDouble®;Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug18-Aug24
+54c9f24c-c2d3-4f89-b794-7ef56c3326c3,$0 Delivery Fee,COMPLETED,"Aug 17, 2025","Aug 25, 2025",1,All customers,$13,1,1,100,,QSR Executive Enterprises-Aug18-Aug24
+153af169-db15-4331-87ed-af46ff956f2b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+7b7d0eb4-7362-42e8-843f-488aa2ea9c96,$0 Delivery Fee,COMPLETED,"Aug 17, 2025","Aug 24, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-Aug18-Aug24
+ac98e0ef-cbc1-4178-b377-aa2a3c1e1f2e,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+135bc0f3-a5c4-4439-8776-d9842cabf86f,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+19e2889d-931b-4025-bd68-21827b00282b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+8f386eee-4e07-44f1-9ec1-bdeccba23552,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b821e06c-4735-43d2-ae9a-7627194f6656,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+26ffb19d-787a-426d-8008-da6079d91549,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+0e345cdc-510e-4ff0-a475-83ab645ec72b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+cb12378c-3050-4245-b182-ddd9077903cd,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+28ec678d-0fa8-47e8-9699-0337ae822541,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+c423afe2-3df4-4ba8-a9c0-083ee782c14a,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+28e74ae5-c9df-4744-8217-fc79b08f8b40,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+a636f6c8-1741-47aa-9ee6-fe3b1d1ce07e,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b5602b34-8b1c-49a1-be72-fc10051ef4dc,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+d7d5e025-26ed-4f7a-8215-5df14fd86e25,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+887e3a0c-c7d4-438f-85e6-9aea7f0ec283,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+65d47e71-209e-49de-8620-7b4bbf9ea7aa,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+1cd25964-7877-4fa8-9892-b0083af515fe,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ca4749ba-d3a2-49b0-b8fc-aa27558dcae9,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4dc74eca-0ac7-4b45-9f71-939126fbf5e8,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+bdd83886-9d60-41bb-83c4-ba409d83fc77,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+46a0e703-2457-46c6-8b6c-aa30bc53887c,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+5cd48972-807b-4385-9559-dc862b1bc9fd,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+86029a56-4681-4a34-bcdd-ea8b5c1e15dd,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+f077a673-33f9-4e22-af7b-c8f1528a4794,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+497569ca-45a6-451f-bd7c-09666391faff,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+97b24806-db51-4f83-a6c1-29a14666bf2b,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e2d4d810-1edb-4953-8e78-2e1c0ec5199a,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+fa248b8f-b2b6-4696-a7be-1b73619b2d16,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b87d7a82-37d1-408d-8477-0baa6cad6b2d,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+90532dd9-6e3a-48d5-9288-3de97736cb1f,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+301ee835-d209-4a60-8b32-ab5b2399d346,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+0d6439f7-b25c-4bae-bd47-75681a5e70a0,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+deb3e887-84d2-4ff1-84bd-67b651330970,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+75661dcb-4944-427d-b69a-f327e5704ac2,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+05c2174b-efbc-4bec-a7f8-d8e16799bcb9,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+5dd5a6b7-7404-4f98-9fa0-30538a34d28a,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+83b88a98-fb75-429f-8eba-ef4d56c6fb6d,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+98a44663-44c0-4be3-ad11-605bffe05343,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+0a6f615e-551e-475c-bca2-65dbfca08709,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4a1d8324-d7e0-4ed4-8b81-4451799640e9,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ec941b5a-d56b-4a92-a410-b284904dfa56,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+277251ea-36d1-41a1-8118-56e1d8d82097,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+b7adb418-1632-471b-8549-5d0002af649a,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+3457e1ee-f875-4827-b639-8007fe41f002,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4676b878-4b7c-46fa-aecf-7637c7760031,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+3fb496bf-1fa6-4dc6-a105-6f945e3278fe,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+93df48e8-9e9f-4596-8395-6bb73cc05427,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+002138b2-36f2-44f2-afd5-f325a639e8ef,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+6108f50b-b57c-48ab-858e-d0e7bb2d2c73,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+da09aae0-54cf-4744-b704-5945b0fbd73e,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+e9ce6791-951e-4e0b-b6a2-090614f81bac,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+91d8bc5d-f33b-4f56-986f-1155e335ca07,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+128a0ca8-a4bc-488f-9be0-083863a6ec4a,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+4e01677a-2800-443e-97f7-6f8265732903,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+ed2675c8-21ca-48ef-b786-835164ca67bb,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+f27caaea-0a8d-40ef-a6eb-9e16bab012cc,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+14037c28-c8a6-4449-8cdc-0ce7c63be3f9,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+c2803694-807c-4f8e-8256-23ecd73038ac,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+920fd0ad-7eff-4a66-bf4e-484141656ed7,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug18-Aug24
+9dc51b51-ed38-4548-95d3-9c7174298c79,"Buy 1, Get 1 Free",CANCELED,"Jul 21, 2025","Jul 22, 2026",12,All customers,$282,4,9,0,Egg McMuffin®;McChicken®,QSR Executive Enterprises-Aug18-Aug24
+ad158781-52b7-454b-a33d-b78b71f13015,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+bf195da0-de51-43be-af81-a5a7fcf6c090,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+9b6ca0eb-a39a-49d6-a9b5-5f8e3c254b1d,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3436e56e-af6d-455a-83eb-14060038289a,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+966923e1-1055-4b56-a164-8317a0592280,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+44578753-c541-4784-8c1c-b0a4ff103f9d,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+a42290d9-af90-4b4a-8a69-1cfe97701235,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d2139be1-f080-49b2-ba43-719af36a3de8,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d889bde4-97e2-4292-a825-f75b8c87c536,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$23,0,1,0,,QSR Executive Enterprises-Aug11-Aug17
+da06a918-49ec-4d70-8651-0ca28dfbc261,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+92333cd0-00f4-4bd8-820d-776fec603c75,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+bfb05ef0-601a-4bd4-84f9-e026e00f6805,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,381",10,48,0,,QSR Executive Enterprises-Aug11-Aug17
+ba7e8b4b-c959-41e5-b127-15cc350aa1da,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$32,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug11-Aug17
+8389723a-abbc-4b3b-bed5-509b0d86d53b,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d5b479f7-4216-4b53-a2fb-1bdd18759bd5,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$3,427",33,123,0,,QSR Executive Enterprises-Aug11-Aug17
+ba9dfd7c-f936-4b26-997d-2c74683a3230,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+14ecd408-fdc0-4399-8d81-0b4048d431d2,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+5ac179d5-37bb-4c0e-832f-90f82eb581d9,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$22,1,1,0,,QSR Executive Enterprises-Aug11-Aug17
+76fba9b6-002e-4807-9bc6-e2bf97faaff9,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$41,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug11-Aug17
+4669c368-d9de-42d1-b04c-56fa6f26b3f5,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$16,0,1,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug11-Aug17
+e11ff0df-da59-4db3-b027-ca721b8ddbbe,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,045",5,31,0,,QSR Executive Enterprises-Aug11-Aug17
+815450fa-74bb-4941-a67c-3599bf15c4bc,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3849edf1-9f40-420b-976d-40497f83049f,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+7fb8a7d8-3fbc-457b-b266-b15ef448fe6b,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$573,6,21,0,,QSR Executive Enterprises-Aug11-Aug17
+a2586f2c-1a59-4499-a477-ea07948283e7,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+6ac6c365-0b05-427e-ab3e-c5d5d9ee2ee9,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e094c225-91be-4c36-9642-a108faeddfd9,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$276,1,7,0,,QSR Executive Enterprises-Aug11-Aug17
+42fb060b-176d-4287-9e0b-356e27574245,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+085dd79a-1a76-443a-9ae3-e49ceec5df5a,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3c855b7a-6188-4108-8ee0-be4febf1d752,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$399,1,12,0,,QSR Executive Enterprises-Aug11-Aug17
+cb6a5adb-c9ac-4a06-92a9-bbc164f9a86c,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+84715513-4e70-4740-8fc9-266f7b9710bf,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+1628c8e0-08ac-46db-ac7a-9f00cd52e77c,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$52,1,2,0,,QSR Executive Enterprises-Aug11-Aug17
+b17dfe8c-0540-4d20-a113-91e0302e587e,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f5bd151d-eb73-431e-b3df-51295cecc755,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+62cfb739-029a-4e50-b1f4-9b8194e6396f,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$228,1,7,0,,QSR Executive Enterprises-Aug11-Aug17
+3f9dfb5e-b6bc-4844-809a-23b611741f91,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+af06a0eb-b157-483f-ac27-05dde3f7a99e,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+87b13ad6-9530-4f81-8692-6c14bf8fa3ef,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$222,5,7,0,,QSR Executive Enterprises-Aug11-Aug17
+56d4ca40-0a53-4545-ac74-67d306f514fa,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3470ddcd-3176-40ae-a324-bfd7efc544a6,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+835fc088-186c-4169-8128-9b490fd6a854,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+eb88aff9-9c79-4ba5-aad5-9985e2761d9b,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+814359b8-040c-49cc-aad6-795158325818,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+bac57790-c6a3-4549-917e-c1461b5f2462,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4876f1f0-7678-47f8-94f2-ec366f3a4b49,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+7551ee31-d693-44f8-a35a-35f696f2e775,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+720e5798-049d-4ff8-bcc7-19fc1c17bdbb,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+adadc4ea-aa32-40da-8925-7ee83e7fe390,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e85e647a-44ac-4e29-87e7-0fb224ae54f1,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+fb40b62b-7471-4a16-9117-37380b99d5d7,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e39cfbd9-058c-4302-8165-ba7a0d244a5d,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4ae960b1-9842-4b58-9a5d-1b64c25e1b88,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+8f5145ba-6fa2-4feb-b6c4-e33a6554cccc,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+617d46fc-9149-41e2-abb9-7dfac8ddf046,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4877288b-7ecf-4456-b5d5-343a71202d4d,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+95c963a7-b79e-4f36-ba93-9f22593ea2d7,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d1403528-20b1-468d-8ccc-81a7f77a56cd,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+6bd244b7-d387-437d-a9a7-7737ac75279b,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+0a35faca-eb25-4dee-8405-95d73a7ba93a,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$287,6,8,0,,QSR Executive Enterprises-Aug11-Aug17
+aa06ea00-0692-4e22-b338-8f871a36ecf1,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$66,1,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug11-Aug17
+68dc82ce-66a5-4ae1-a2f1-9b72074c5fdb,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+a4fdc306-b85c-4f61-83ca-9d8da42d4461,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,"$1,612",24,50,0,,QSR Executive Enterprises-Aug11-Aug17
+68f3a6fc-e970-4151-9ca3-cd6a5a684df5,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+de7c9790-e85e-4c8b-b53e-62093fe94b80,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+fc61ce80-4a86-40a7-9c34-8eae76c45332,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$555,3,19,0,,QSR Executive Enterprises-Aug11-Aug17
+43605a2c-9035-434f-b725-27df25d474e3,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$39,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug11-Aug17
+16391330-d6cd-4a9c-bbf6-29b0c7b62831,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b41fb126-77fb-4857-b28c-9d53b911b5a1,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$995,4,31,0,,QSR Executive Enterprises-Aug11-Aug17
+e3e028ae-3657-4ae2-a92a-562bf79db82b,Free Item (Spend 20),ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+72a931e5-970d-4736-bd7f-861772914957,"Buy 1, Get 1 Free",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d739ec1a-c345-47f3-834e-ca4349983712,"Spend 20, Save 5",ACTIVE,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$766,4,26,0,,QSR Executive Enterprises-Aug11-Aug17
+ebd91381-eb6d-4215-836d-3aaeeaab2bd4,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+135bc0f3-a5c4-4439-8776-d9842cabf86f,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d288e3c2-2b31-41b3-9631-ba678e4c6ce8,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+882c28b5-aa3d-44f2-b614-6bc9a7317aa3,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b5602b34-8b1c-49a1-be72-fc10051ef4dc,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d7d5e025-26ed-4f7a-8215-5df14fd86e25,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+887e3a0c-c7d4-438f-85e6-9aea7f0ec283,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+a636f6c8-1741-47aa-9ee6-fe3b1d1ce07e,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4a1d8324-d7e0-4ed4-8b81-4451799640e9,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+277251ea-36d1-41a1-8118-56e1d8d82097,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$87,0,2,0,,QSR Executive Enterprises-Aug11-Aug17
+4a2de74d-73eb-43be-985d-7ce3e9279f5f,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b8e79807-55f5-4d14-8481-6ae6955647e4,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f19c0432-1e8f-4e84-b92e-da393743e247,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+55ca95b2-ec18-4f10-bc08-083a566ad20b,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+9dc51b51-ed38-4548-95d3-9c7174298c79,"Buy 1, Get 1 Free",CANCELED,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$2,861",29,96,0,McChicken®;Egg McMuffin®,QSR Executive Enterprises-Aug11-Aug17
+f9292e06-4ec2-4121-b0e0-745a8eaf954b,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+c423afe2-3df4-4ba8-a9c0-083ee782c14a,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+28e74ae5-c9df-4744-8217-fc79b08f8b40,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+153af169-db15-4331-87ed-af46ff956f2b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b544bb4a-871a-42d5-8306-8bd98ce7d984,"Buy 1, Get 1 Free",CANCELED,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$9,812",78,355,0,Hotcakes;McDouble®;Sausage McMuffin® with Egg,QSR Executive Enterprises-Aug11-Aug17
+9a667be6-3b16-4c47-9588-f85aada79767,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+ec941b5a-d56b-4a92-a410-b284904dfa56,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f080fb6c-9a85-4131-82c4-a96744491e5f,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f640ea77-cb51-42ed-ada9-95e0a10b9dcb,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$97,2,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug11-Aug17
+0d83d026-1dab-485f-8d57-777b829194d2,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+301ee835-d209-4a60-8b32-ab5b2399d346,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+0d6439f7-b25c-4bae-bd47-75681a5e70a0,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+deb3e887-84d2-4ff1-84bd-67b651330970,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$40,0,1,0,,QSR Executive Enterprises-Aug11-Aug17
+1575106d-50cb-450a-bb35-19496ed524f3,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$19,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-Aug11-Aug17
+fa248b8f-b2b6-4696-a7be-1b73619b2d16,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b87d7a82-37d1-408d-8477-0baa6cad6b2d,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+90532dd9-6e3a-48d5-9288-3de97736cb1f,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+1ad34485-ccdb-4c14-ab72-1d0e2017b57b,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3fb496bf-1fa6-4dc6-a105-6f945e3278fe,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+93df48e8-9e9f-4596-8395-6bb73cc05427,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+002138b2-36f2-44f2-afd5-f325a639e8ef,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+46fc0dda-ff1d-4803-bdf3-631f54477165,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+8f386eee-4e07-44f1-9ec1-bdeccba23552,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b821e06c-4735-43d2-ae9a-7627194f6656,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+26ffb19d-787a-426d-8008-da6079d91549,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f2a52afd-2b32-4a47-9642-4e23bd6c3afa,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+83b88a98-fb75-429f-8eba-ef4d56c6fb6d,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+98a44663-44c0-4be3-ad11-605bffe05343,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+0a6f615e-551e-475c-bca2-65dbfca08709,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$41,0,1,0,,QSR Executive Enterprises-Aug11-Aug17
+c4801dd1-1f2b-4a1d-9c21-3cd14b7354f0,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+497569ca-45a6-451f-bd7c-09666391faff,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+97b24806-db51-4f83-a6c1-29a14666bf2b,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e2d4d810-1edb-4953-8e78-2e1c0ec5199a,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$29,0,1,0,,QSR Executive Enterprises-Aug11-Aug17
+3aa5f024-72a4-4372-a0a2-d68c97192c64,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+19e2889d-931b-4025-bd68-21827b00282b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+1fe863a0-381e-48f0-bb80-149c721a479f,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+399ceed3-e074-4360-b204-8fab89c031bb,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$21,1,1,0,,QSR Executive Enterprises-Aug11-Aug17
+62e9d87c-aa57-4339-ad98-4ad0f3373fbb,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+65d47e71-209e-49de-8620-7b4bbf9ea7aa,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+1cd25964-7877-4fa8-9892-b0083af515fe,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+ca4749ba-d3a2-49b0-b8fc-aa27558dcae9,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d71ffb4f-8901-4003-a28a-9b5fdd1a0998,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+ac98e0ef-cbc1-4178-b377-aa2a3c1e1f2e,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e2a5dfd3-91d2-4a06-a5dd-1da82562e3ac,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+ac6d775f-a391-4caf-b552-48c191cffe81,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+d642d7ec-502a-41fa-be2c-a28d3ea53076,$0 Delivery Fee,COMPLETED,"Aug 10, 2025","Aug 17, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-Aug11-Aug17
+c3fc800b-3451-4c5a-958b-8f65122ec30e,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+0e345cdc-510e-4ff0-a475-83ab645ec72b,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+cb12378c-3050-4245-b182-ddd9077903cd,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+28ec678d-0fa8-47e8-9699-0337ae822541,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e9d5a9db-3cac-4dce-98c3-d03267bf1604,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+75661dcb-4944-427d-b69a-f327e5704ac2,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+05c2174b-efbc-4bec-a7f8-d8e16799bcb9,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+5dd5a6b7-7404-4f98-9fa0-30538a34d28a,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f10c3178-359b-421b-9af9-be19b21d4912,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b7adb418-1632-471b-8549-5d0002af649a,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+3457e1ee-f875-4827-b639-8007fe41f002,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4676b878-4b7c-46fa-aecf-7637c7760031,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+179ee3fe-b744-4060-9094-946358d029e4,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4dc74eca-0ac7-4b45-9f71-939126fbf5e8,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+bdd83886-9d60-41bb-83c4-ba409d83fc77,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+46a0e703-2457-46c6-8b6c-aa30bc53887c,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+b7779857-b582-49f6-8e39-95e104d14fd4,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+5cd48972-807b-4385-9559-dc862b1bc9fd,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+86029a56-4681-4a34-bcdd-ea8b5c1e15dd,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f077a673-33f9-4e22-af7b-c8f1528a4794,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$21,1,1,0,,QSR Executive Enterprises-Aug11-Aug17
+9b178b29-748e-4bc7-95b3-7f2be112b3f5,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+14037c28-c8a6-4449-8cdc-0ce7c63be3f9,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+c2803694-807c-4f8e-8256-23ecd73038ac,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+920fd0ad-7eff-4a66-bf4e-484141656ed7,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$171,2,6,0,,QSR Executive Enterprises-Aug11-Aug17
+679dba8e-16fd-4852-b3f1-10b2eb99c8de,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+6108f50b-b57c-48ab-858e-d0e7bb2d2c73,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+da09aae0-54cf-4744-b704-5945b0fbd73e,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+e9ce6791-951e-4e0b-b6a2-090614f81bac,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$59,2,2,0,,QSR Executive Enterprises-Aug11-Aug17
+c455df36-af3a-4528-b6f5-510bd7e62b6e,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+91d8bc5d-f33b-4f56-986f-1155e335ca07,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$39,1,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-Aug11-Aug17
+128a0ca8-a4bc-488f-9be0-083863a6ec4a,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+0ace4195-8d16-47be-92af-faf77dd2e177,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+4e01677a-2800-443e-97f7-6f8265732903,Free Item (Spend 20),CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+ed2675c8-21ca-48ef-b786-835164ca67bb,"Buy 1, Get 1 Free",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+f27caaea-0a8d-40ef-a6eb-9e16bab012cc,"Spend 20, Save 5",CANCELED,"Aug 11, 2025","Aug 29, 2025",1,Custom audience,$37,0,1,0,,QSR Executive Enterprises-Aug11-Aug17
+de513b1f-395b-4736-99ce-b3102c946253,"Buy 1, Get 1 Free",COMPLETED,"Aug 10, 2025","Aug 11, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-Aug11-Aug17
+fe1aa72a-58d9-40fe-b212-208f6cf7227a,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+efb134e1-fd43-405d-8b53-d4e4ebb4d3aa,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$237,1,8,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+d6d4a9b8-5a45-4ba9-b747-b241c4fe93d8,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$54,0,2,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+78553756-e0fc-4964-8f53-0d70708a791c,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+91263a3b-2461-4694-82f1-16b4ccecbd39,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+caabc160-5347-4f31-9286-1ac486ad1ab6,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+cb4e91a7-2bd3-4589-b525-ad9f265d35c9,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$393,3,14,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+d646803f-5e63-40a4-827b-87f0a3f723f9,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+94643e84-44c0-4fb2-94b2-eb1e001e5391,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$111,0,4,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+2c1b2d6e-a2bf-46a7-886f-b58fe95c8cdc,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+7336b974-e736-44a8-8f75-1762a93a7ecd,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,"$1,986",12,71,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+d47f8968-4d56-4656-94ae-b54317f7f510,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+36666304-5521-4a8f-a7d1-f908d7900ca0,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+2e010c37-d344-4d9f-b52a-d0193f2ad876,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$828,5,26,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+362cf8d4-e37d-4e7a-93c3-3a1d93d85b61,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+8f73b6ff-f883-4911-a453-4064e427679c,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+b5bbdf19-9772-48a7-858e-2d67be43eecd,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$28,0,1,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+f4add0fa-90e5-482a-96d3-aa012493395f,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+6dcbcbee-75ac-4c4b-94d1-fed83465d876,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$381,2,12,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+734cee3a-6a25-4155-9ee8-19a766f200d5,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+ea6c1aec-337a-4931-9ca4-ae40bf266bb0,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$335,0,12,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+3c47d53b-454f-4f87-ba69-2ad2fd22fa95,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$458,1,12,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+b051fbb1-4390-4556-8460-febc3afce126,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$223,0,8,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+e4c800dd-ef89-405e-9046-30b610584a63,Free Item (Spend 15),ACTIVE,"Jul 9, 2025","Jul 20, 2025",1,Custom audience,$367,2,12,0,Medium French Fries,QSR Executive Enterprises-July7-July13
+2067fca7-10e8-48b7-8d7c-018a7e1b1317,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+7bb3f560-f178-4dcf-a0ed-6d19b64e6c2e,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+6a1931dd-77c7-4e0b-84d2-20354ccb5426,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$113,3,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+f6c44b21-8121-4268-aeb0-c9fc960afb35,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+cc465235-b238-4e6c-8071-76cb0c9704b0,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+43f229bb-c7e2-4c06-84cb-10e0d80146c7,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$78,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+2c37199c-7437-4252-9157-0a074e2ebac5,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$48,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+3675f34f-1569-4d86-bba0-5e7617c69282,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+f49d0833-1094-4c0c-b365-59d232292332,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$59,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+d3ed1107-5409-4d79-8c76-b3ce8ae91704,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+ee7df889-eba2-42b4-9c05-f25608403a0c,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,"$1,011",21,34,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+8ef2621b-0204-4be3-b620-032c23f94d7e,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+c74e04b0-09c0-4c09-ae83-abe35b5b13a4,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+e552ce76-da8d-4780-aea4-e4f7942ac75d,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$267,3,9,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+7d630270-02da-47a6-9ecf-b1fcf30ef7c6,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$60,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+b5b133f0-2ce8-419a-a6a6-535ec63d4950,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$33,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+794f7976-8dc2-484e-a375-60c02b9217ba,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$114,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+3bc9dae6-447e-46c8-84b9-c06774993344,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+5e21c392-6c9e-4f22-9092-b8e40cef719d,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$655,8,18,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+1f188105-361c-498a-bf60-9344389c2ddc,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July7-July13
+e4b1a214-3379-4f4a-a06a-93ad41bd87ce,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$153,3,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+13060850-8a80-4333-a60d-ed56bdc1f7fb,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$155,3,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+f710f468-cba0-4057-ab7b-b59660201a66,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$156,3,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+77871b07-2b30-419b-a53d-032a6f52cc49,"Buy 1, Get 1 Free",ACTIVE,"Jun 30, 2025","Jul 20, 2025",1,Custom audience,$170,3,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July7-July13
+75a1cc7b-07de-4b8b-bb90-a54b5931bff3,$0 Delivery Fee,COMPLETED,"Jul 6, 2025","Jul 13, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-July7-July13
+513aa248-c0e3-4c40-af19-63f25490ad33,$0 Delivery Fee,COMPLETED,"Jul 2, 2025","Jul 10, 2025",1,All customers,$0,0,0,100,,QSR Executive Enterprises-July7-July13
+9dc51b51-ed38-4548-95d3-9c7174298c79,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$3,067",29,107,0,McChicken®;Egg McMuffin®,QSR Executive Enterprises-July21-july27
+b544bb4a-871a-42d5-8306-8bd98ce7d984,"Buy 1, Get 1 Free",ACTIVE,"Jul 21, 2025","Jul 22, 2026",12,All customers,"$9,163",89,324,0,Hotcakes;McDouble®;Sausage & Egg McMuffin®;Sausage McMuffin® with Egg,QSR Executive Enterprises-July21-july27
+2be7f7e3-7028-4f6e-8bd5-2a7cc03b2456,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+40276ab9-6862-41fe-beaa-b48b93a2f817,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+8bf2712b-1a56-41a4-9f0c-6c6264f84212,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+a009e40f-244b-48b0-8dcd-3439431b90d1,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+0f4bc191-0749-428d-8d8f-e899b5926b3a,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+055fad2f-86e7-4a18-bf6d-29c18db8bcae,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+d9afab66-e8ff-4e34-8d1c-45b6f5a7168f,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+e34fbfcd-eef7-46ec-8523-e46b47d64496,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+b4508b87-f3a1-4e41-a4be-eb61342965e2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$750,13,25,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+325880a8-b927-49c7-a111-9db381a6f7d8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$46,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+604d67c4-12af-4c05-8f64-c0ed54632d17,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,"$2,156",9,79,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+0178496c-c1b2-4f64-a11a-dae73d15d6c1,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$309,4,7,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+c36831f8-b463-488e-bcd9-0f9377da7f08,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+42753131-ad56-4c8e-9a16-aad50685bdcc,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+85755c41-9e58-4c91-beeb-82370decab12,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+f3dbe330-240e-4e72-9918-165c5187b360,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+49fa29c0-917d-4a80-931d-5c48e1869aac,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+9d9cdab3-3cbb-4067-869a-5d6e4a640d72,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+6e672b0e-d68a-4f50-9e00-f885208e1369,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+385445a8-03e3-43d7-a4e5-0711e7fce359,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+6234f791-c3de-4914-9aa3-d792ef62d2da,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$86,2,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+46729c27-e92e-4edd-bfb2-3688c6cde7ed,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$185,1,9,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+4fcf870e-1dc6-41b1-b415-6a153126ed40,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+9c7b6095-a6e3-45ff-a1bf-b0192545a323,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+8d36bff4-fff8-44a2-bf57-48a0d429b200,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$271,3,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+b8da469e-8524-4c30-9488-8682868d213e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$950,3,28,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+515919b8-e37c-4edf-9587-1cc22d6557f9,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$38,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+7739d48c-f703-4ec1-bd07-84c98d3613ca,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$67,1,2,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+3ca3a660-03cc-46bb-9513-eb0dab75391c,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+8e155fb5-37bc-4de2-a42a-f5c164b3e546,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+68b17296-870a-4d35-9bb6-3a59b75fc6cb,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+d6954ac4-b830-4cdb-8c0c-003f77192b7b,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+4b6fbe96-2cad-4bb6-8f89-bee4f956a44c,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+c8d87059-aa27-4f11-8af4-1c31319075a2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+dcd85ded-e078-4826-959c-080908833d7e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+190f6527-0afe-49a9-bf92-f843eed1798c,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+93e8e17b-cbfa-4572-bfb1-dfeeb8c4211b,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$116,2,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+c28f29e7-1a09-4744-81d4-e9a0a94a4a29,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$43,1,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+3025a4dc-3595-49f6-bda4-a33300098d09,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$192,1,6,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+d40cbca5-d859-4e7a-9496-354c62246b56,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$50,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+dc93a4d4-1cea-4b12-8990-ca1665cfc2bd,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$75,1,2,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+9953378e-f1e4-4afd-964d-6a496c79586a,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$147,1,5,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+c107e2f9-30a6-4d57-8dec-97ca7f0c58c8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+8090dc11-0eb2-4323-948c-3f0a9086f39e,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+30e0c5ee-9495-4c91-b159-8a9f81e492c7,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+29335ccf-24d0-4b65-8434-0b70eebed35d,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+a1485df5-7845-49f0-9654-5fd5d6daaf3f,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+de6fc617-331d-4c60-b316-6bcefb9d47d5,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+aba980d1-7444-4aac-849e-b6424e291f05,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+8a26eb85-37ca-4285-9bd6-6450e525852e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+c5487973-b974-4e6c-bf84-b887d8c7e658,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+fd8a76fa-930d-4068-8010-82eabf52d69e,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+504edf40-fcf9-437d-a890-eeac316da215,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$24,1,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+c562e7bf-d63e-4f1d-b9c8-2760244c9884,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$51,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+5a27c8da-d758-4695-a572-8980a0c5e4ee,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+74f54631-885e-4d51-be23-783de1644313,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$55,1,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+66ad3691-9b3d-4d99-a671-e00402819184,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+614972ad-4a7f-4f1a-8ef7-e8b12b3bfd94,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$24,0,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+18d816a0-8d59-4b9f-afea-7f390e305342,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$16,0,1,0,Sausage McMuffin® with Egg,QSR Executive Enterprises-July21-july27
+57e31c5d-17e1-4caa-aa42-9c501ac5f6fd,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$43,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+e63cb29c-99d5-4c4d-9d66-3d2c551681c4,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$205,2,6,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+757316d1-5ff1-4070-93c6-43259d1c5199,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$367,1,12,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+c15a0071-660f-4176-8a91-2816b30bb961,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$41,1,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+d524d392-7c1d-49f7-8337-18a2cac03eed,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$90,0,3,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+c2cca2c9-1dce-473e-b506-b5f868f3954b,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+08a5bfd9-e15c-49f5-bc1f-53ea71d5232e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+88b4a36f-04d3-45a2-b33b-2587864c8729,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+eee5ec91-96d5-48ef-b184-88344527a3ee,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+126fcb7b-e9ba-4444-9e59-2dee60845b2d,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+0adfc1c4-9007-45da-a325-2ccd04f411e1,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+abaca11b-1218-44f7-9d56-3ea816083068,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+581c14d9-deaa-4585-adf1-94b250012078,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+28f98f24-4723-4cf6-af11-8398333a94e8,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$23,0,1,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+6306dfa5-d33e-4e35-a605-ca2e1f49d696,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$45,1,1,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+ba2163c9-036d-474c-8aa6-d23541f82e0e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+d58c7cc2-38d5-488b-b291-87b78121f540,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$46,0,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+9701d540-7cb3-47dd-a0af-628015cd42c6,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$169,4,5,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+b18b5966-27c3-47b4-9448-5e629b5667e2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$102,0,3,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+714d4382-72bd-406f-85b3-da644ea90714,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$25,1,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+c1f2ed94-4a5a-4edc-9d3e-955c87d9e1c8,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+799aca2d-7d40-4b59-81ea-4e689656266e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$165,2,4,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+b1102664-0294-4677-9d7a-e17b959b73fe,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$29,0,1,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+ee4f800f-37fd-4881-886b-ae79517c0446,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$748,2,21,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+04628204-412a-4b8d-9703-07808814db5f,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$127,0,3,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+a633d187-51bf-4999-a16f-fea3cedcfeb7,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$98,2,3,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+ada6526d-ab91-4037-be88-e5e1a20d85ba,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$46,2,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+951f7f22-99f2-499b-82b0-ae9f0b90b8bc,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$524,1,18,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+01cd1a6f-0896-4ee3-a3d5-0ee3d0fbbdc6,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$45,1,1,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+6867733e-5893-4724-b443-dac65808944e,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$482,10,14,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+200a38c3-1d0f-4a12-8b26-a7d1123855d2,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$607,2,22,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+9b41b7b7-0762-4081-ada5-61968240bb36,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$44,0,2,0,Sausage & Egg McMuffin®,QSR Executive Enterprises-July21-july27
+3bd7ab0a-13ce-41f2-8f9c-82e330b76891,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$236,2,5,0,Sausage Egg McMuffin® Meal,QSR Executive Enterprises-July21-july27
+16eab225-74a7-4928-8a5c-c7d0b7f85990,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$141,4,5,0,10 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+64f69887-3753-4f6b-963a-dc249d1284d5,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$499,1,16,0,6 pc. Chicken McNuggets®,QSR Executive Enterprises-July21-july27
+a7645078-bb9c-4365-8f8a-178fe93968be,"Buy 1, Get 1 Free",ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Custom audience,$0,0,0,0,,QSR Executive Enterprises-July21-july27
+f09996c6-1af4-4947-89dd-c7b71e39d49d,Free Item (Spend 20),ACTIVE,"Jul 20, 2025","Aug 10, 2025",1,Uber One members only,$0,0,0,0,,QSR Executive Enterprises-July21-july27
