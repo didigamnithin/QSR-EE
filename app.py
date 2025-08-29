@@ -13,7 +13,7 @@ st.set_page_config(
     page_title="QSR Executive Enterprises - DoorDash Marketing Analysis",
     page_icon="🍔",
     layout="wide",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="expanded"
 )
 
 # Custom CSS for dark mode styling
@@ -584,141 +584,436 @@ def create_financial_analysis(df, selected_stores, selected_campaigns):
     # Filter data by selected stores
     filtered_df = filter_data_by_stores(df, selected_stores)
     
-    # Convert date column to datetime - try different possible column names
-    date_column = None
-    for col in ['Date', 'Transaction date', 'Payout date', 'Date of transaction']:
-        if col in filtered_df.columns:
-            date_column = col
-            break
-    
-    if date_column:
-        filtered_df[date_column] = pd.to_datetime(filtered_df[date_column], errors='coerce')
-        filtered_df = filtered_df.dropna(subset=[date_column])
+    # Convert Timestamp UTC date to datetime
+    if 'Timestamp UTC date' in filtered_df.columns:
+        filtered_df['Timestamp UTC date'] = pd.to_datetime(filtered_df['Timestamp UTC date'], errors='coerce')
+        filtered_df = filtered_df.dropna(subset=['Timestamp UTC date'])
         
         if len(filtered_df) == 0:
             st.warning("No valid data found after date conversion")
             return
         
+        # Extract date from timestamp
+        filtered_df['Date'] = filtered_df['Timestamp UTC date'].dt.date
+        filtered_df['Date'] = pd.to_datetime(filtered_df['Date'])
         
-        # Define financial metrics based on available columns
-        metrics = []
-        for col in filtered_df.columns:
-            if any(keyword in col.lower() for keyword in ['sales', 'payout', 'commission', 'subtotal', 'net', 'amount', 'revenue']):
-                metrics.append(col)
+        # Show available columns for debugging
+        st.markdown("### 📋 Available Financial Columns")
+        st.write("Available columns in the financial data:")
+        st.write(list(filtered_df.columns))
         
-        # Aggregate data by date
-        agg_dict = {}
-        for metric in metrics:
-            if metric in filtered_df.columns:
-                # Check if it's a numeric column
-                if pd.api.types.is_numeric_dtype(filtered_df[metric]):
-                    agg_dict[metric] = 'sum'
+        # 1. ORDER TRANSACTIONS ANALYSIS
+        st.markdown("## 📦 Order Transactions Analysis")
         
-        if agg_dict:
-            daily_metrics = filtered_df.groupby(date_column).agg(agg_dict).reset_index()
-        else:
-            st.warning("No numeric financial columns found for aggregation")
-            return
+        # Filter for Order transactions
+        order_df = filtered_df[filtered_df['Transaction type'] == 'Order'].copy()
         
-        # Show summary statistics
-        st.markdown("### 📊 Financial Summary Statistics")
-        col1, col2, col3, col4 = st.columns(4)
-        
-        # Get the first 4 available metrics for display
-        available_metrics = list(daily_metrics.columns)
-        if date_column in available_metrics:
-            available_metrics.remove(date_column)
-        
-        for i, metric in enumerate(available_metrics[:4]):
-            with [col1, col2, col3, col4][i]:
-                if pd.api.types.is_numeric_dtype(daily_metrics[metric]):
-                    total_value = daily_metrics[metric].sum()
-                    if any(keyword in metric.lower() for keyword in ['sales', 'payout', 'commission', 'amount', 'revenue']):
-                        st.metric(f"Total {metric}", f"${total_value:,.2f}")
-                    else:
-                        st.metric(f"Total {metric}", f"{total_value:,.0f}")
-        
-        # Create time series chart for financial metrics
-        st.markdown("### 📈 Financial Metrics Over Time")
-        
-        # Create subplots for financial metrics
-        available_metrics = list(daily_metrics.columns)
-        if date_column in available_metrics:
-            available_metrics.remove(date_column)
-        
-        # Limit to 6 metrics for display
-        display_metrics = available_metrics[:6]
-        
-        if len(display_metrics) <= 3:
-            rows, cols = 1, len(display_metrics)
-        elif len(display_metrics) <= 6:
-            rows, cols = 2, 3
-        else:
-            rows, cols = 3, 2
-        
-        fig = make_subplots(
-            rows=rows, cols=cols,
-            subplot_titles=display_metrics,
-            specs=[[{"secondary_y": False} for _ in range(cols)] for _ in range(rows)]
-        )
-        
-        # Add traces for each metric
-        colors = ['#00ff88', '#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#feca57']
-        
-        for i, metric in enumerate(display_metrics):
-            row = (i // cols) + 1
-            col = (i % cols) + 1
+        if len(order_df) > 0:
+            # Define order metrics
+            order_metrics = ['Subtotal', 'Commission', 'Marketing fees', 'Discounts', 'Net pay']
+            available_order_metrics = [col for col in order_metrics if col in order_df.columns]
             
-            fig.add_trace(
-                go.Scatter(
-                    x=daily_metrics[date_column],
-                    y=daily_metrics[metric],
-                    mode='lines',
-                    name=metric,
-                    line=dict(color=colors[i % len(colors)], width=2, shape='spline'),
-                    showlegend=False
-                ),
-                row=row, col=col
-            )
-        
-        fig.update_layout(
-            height=300 * rows,
-            title_text="Financial Metrics Over Time",
-            showlegend=False,
-            plot_bgcolor='rgba(0,0,0,0)',
-            paper_bgcolor='rgba(0,0,0,0)',
-            font=dict(color='white')
-        )
-        
-        # Update all subplot axes
-        for i in range(1, rows + 1):
-            for j in range(1, cols + 1):
-                fig.update_xaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
-                fig.update_yaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
-        
-        st.plotly_chart(fig, use_container_width=True)
-        
-        # Show detailed financial table
-        st.markdown("### 📋 Daily Financial Data")
-        
-        # Format the table for display
-        display_df = daily_metrics.copy()
-        
-        # Format numeric columns
-        display_df = display_df.copy()  # Create a copy to avoid SettingWithCopyWarning
-        for i, row in display_df.iterrows():
-            for col in display_df.columns:
-                if col != date_column:
-                    value = row[col]
-                    if pd.notna(value):
-                        if any(keyword in col.lower() for keyword in ['sales', 'commission', 'payout', 'credits', 'amount', 'revenue']):
+            # Aggregate order data by date
+            agg_dict = {}
+            for metric in available_order_metrics:
+                if metric in order_df.columns and pd.api.types.is_numeric_dtype(order_df[metric]):
+                    agg_dict[metric] = 'sum'
+            
+            # Add count of orders
+            agg_dict['Orders'] = 'count'
+            
+            if agg_dict:
+                daily_orders = order_df.groupby('Date').agg(agg_dict).reset_index()
+                
+                # Show order summary statistics
+                st.markdown("### 📊 Order Summary Statistics")
+                col1, col2, col3, col4 = st.columns(4)
+                
+                with col1:
+                    st.metric("Total Orders", f"{daily_orders['Orders'].sum():,.0f}")
+                with col2:
+                    if 'Subtotal' in daily_orders.columns:
+                        st.metric("Total Subtotal", f"${daily_orders['Subtotal'].sum():,.2f}")
+                with col3:
+                    if 'Net pay' in daily_orders.columns:
+                        st.metric("Total Net Pay", f"${daily_orders['Net pay'].sum():,.2f}")
+                with col4:
+                    if 'Commission' in daily_orders.columns:
+                        st.metric("Total Commission", f"${daily_orders['Commission'].sum():,.2f}")
+                
+                # Create time series chart for order metrics
+                st.markdown("### 📈 Order Metrics Over Time")
+                
+                # Create subplots for order metrics
+                display_metrics = ['Orders'] + [col for col in available_order_metrics if col in daily_orders.columns]
+                
+                if len(display_metrics) <= 3:
+                    rows, cols = 1, len(display_metrics)
+                elif len(display_metrics) <= 6:
+                    rows, cols = 2, 3
+                else:
+                    rows, cols = 3, 2
+                
+                fig = make_subplots(
+                    rows=rows, cols=cols,
+                    subplot_titles=display_metrics,
+                    specs=[[{"secondary_y": False} for _ in range(cols)] for _ in range(rows)]
+                )
+                
+                # Add traces for each metric
+                colors = ['#00ff88', '#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#feca57']
+                
+                for i, metric in enumerate(display_metrics):
+                    row = (i // cols) + 1
+                    col = (i % cols) + 1
+                    
+                    fig.add_trace(
+                        go.Scatter(
+                            x=daily_orders['Date'],
+                            y=daily_orders[metric],
+                            mode='lines',
+                            name=metric,
+                            line=dict(color=colors[i % len(colors)], width=2, shape='spline'),
+                            showlegend=False
+                        ),
+                        row=row, col=col
+                    )
+                
+                fig.update_layout(
+                    height=300 * rows,
+                    title_text="Order Metrics Over Time",
+                    showlegend=False,
+                    plot_bgcolor='rgba(0,0,0,0)',
+                    paper_bgcolor='rgba(0,0,0,0)',
+                    font=dict(color='white')
+                )
+                
+                # Update all subplot axes
+                for i in range(1, rows + 1):
+                    for j in range(1, cols + 1):
+                        fig.update_xaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                        fig.update_yaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Pre-TODC vs Post-TODC Analysis for Orders
+                st.markdown("### 📊 Pre-TODC vs Post-TODC Order Analysis")
+                
+                # Define periods
+                pre_todc_start = pd.to_datetime('2025-06-22')
+                pre_todc_end = pd.to_datetime('2025-07-21')
+                post_todc_start = pd.to_datetime('2025-07-22')
+                post_todc_end = pd.to_datetime('2025-08-22')
+                
+                # Filter data for each period
+                pre_todc_orders = daily_orders[(daily_orders['Date'] >= pre_todc_start) & (daily_orders['Date'] <= pre_todc_end)]
+                post_todc_orders = daily_orders[(daily_orders['Date'] >= post_todc_start) & (daily_orders['Date'] <= post_todc_end)]
+                
+                # Calculate comparison data
+                comparison_data = []
+                
+                for metric in display_metrics:
+                    if metric in daily_orders.columns:
+                        pre_value = pre_todc_orders[metric].sum()
+                        post_value = post_todc_orders[metric].sum()
+                        
+                        # Calculate delta and percentage delta
+                        delta = post_value - pre_value
+                        pct_delta = (delta / pre_value * 100) if pre_value != 0 else 0
+                        
+                        comparison_data.append({
+                            'Metric': metric,
+                            'Pre-TODC (6/22-7/21)': pre_value,
+                            'Post-TODC (7/22-8/22)': post_value,
+                            'Delta': delta,
+                            '% Delta': pct_delta
+                        })
+                
+                # Create comparison dataframe
+                comparison_df = pd.DataFrame(comparison_data)
+                
+                # Format the display table
+                display_df = comparison_df.copy()
+                
+                # Format numeric columns
+                display_df = display_df.copy()
+                for i, row in display_df.iterrows():
+                    metric = row['Metric']
+                    for col in ['Pre-TODC (6/22-7/21)', 'Post-TODC (7/22-8/22)', 'Delta']:
+                        value = row[col]
+                        if any(keyword in metric.lower() for keyword in ['subtotal', 'commission', 'fees', 'discounts', 'pay', 'amount']):
                             display_df.loc[i, col] = f"${value:,.2f}"
                         elif pd.notna(value) and value == int(value):
                             display_df.loc[i, col] = f"{value:,.0f}"
                         else:
                             display_df.loc[i, col] = f"{value:,.2f}"
+                
+                display_df['% Delta'] = display_df['% Delta'].apply(lambda x: f"{x:+.1f}%" if x != 0 else "0.0%")
+                
+                # Show the comparison table
+                st.dataframe(display_df, use_container_width=True)
+                
+                # Show daily order data
+                st.markdown("### 📋 Daily Order Data")
+                
+                # Format the table for display
+                display_df = daily_orders.copy()
+                
+                # Format numeric columns
+                display_df = display_df.copy()
+                for i, row in display_df.iterrows():
+                    for col in display_df.columns:
+                        if col != 'Date':
+                            value = row[col]
+                            if pd.notna(value):
+                                if any(keyword in col.lower() for keyword in ['subtotal', 'commission', 'fees', 'discounts', 'pay', 'amount']):
+                                    display_df.loc[i, col] = f"${value:,.2f}"
+                                elif pd.notna(value) and value == int(value):
+                                    display_df.loc[i, col] = f"{value:,.0f}"
+                                else:
+                                    display_df.loc[i, col] = f"{value:,.2f}"
+                
+                st.dataframe(display_df, use_container_width=True)
+        else:
+            st.warning("No Order transactions found in the data")
         
-        st.dataframe(display_df, use_container_width=True)
+        # 2. ERROR CHARGES AND ADJUSTMENTS ANALYSIS
+        st.markdown("## ⚠️ Error Charges and Adjustments Analysis")
+        
+        # Filter for Error Charge and Adjustment transactions
+        error_df = filtered_df[filtered_df['Transaction type'].isin(['Error Charge', 'Adjustment'])].copy()
+        
+        if len(error_df) > 0:
+            # Define error metrics
+            error_metrics = ['Subtotal', 'Commission', 'Marketing fees', 'Discounts', 'Net pay']
+            available_error_metrics = [col for col in error_metrics if col in error_df.columns]
+            
+            # Aggregate error data by date
+            agg_dict = {}
+            for metric in available_error_metrics:
+                if metric in error_df.columns and pd.api.types.is_numeric_dtype(error_df[metric]):
+                    agg_dict[metric] = 'sum'
+            
+            # Add count of errors
+            agg_dict['Error Count'] = 'count'
+            
+            if agg_dict:
+                daily_errors = error_df.groupby('Date').agg(agg_dict).reset_index()
+                
+                # Show error summary statistics
+                st.markdown("### 📊 Error Summary Statistics")
+                col1, col2, col3, col4 = st.columns(4)
+                
+                with col1:
+                    st.metric("Total Errors", f"{daily_errors['Error Count'].sum():,.0f}")
+                with col2:
+                    if 'Subtotal' in daily_errors.columns:
+                        st.metric("Total Error Amount", f"${daily_errors['Subtotal'].sum():,.2f}")
+                with col3:
+                    if 'Net pay' in daily_errors.columns:
+                        st.metric("Total Net Impact", f"${daily_errors['Net pay'].sum():,.2f}")
+                with col4:
+                    if 'Commission' in daily_errors.columns:
+                        st.metric("Total Commission Impact", f"${daily_errors['Commission'].sum():,.2f}")
+                
+                # Create time series chart for error metrics
+                st.markdown("### 📈 Error Metrics Over Time")
+                
+                # Create subplots for error metrics
+                display_metrics = ['Error Count'] + [col for col in available_error_metrics if col in daily_errors.columns]
+                
+                if len(display_metrics) <= 3:
+                    rows, cols = 1, len(display_metrics)
+                elif len(display_metrics) <= 6:
+                    rows, cols = 2, 3
+                else:
+                    rows, cols = 3, 2
+                
+                fig = make_subplots(
+                    rows=rows, cols=cols,
+                    subplot_titles=display_metrics,
+                    specs=[[{"secondary_y": False} for _ in range(cols)] for _ in range(rows)]
+                )
+                
+                # Add traces for each metric
+                colors = ['#ff6b6b', '#ff4757', '#ff3838', '#ff5252', '#ff1744', '#d50000']
+                
+                for i, metric in enumerate(display_metrics):
+                    row = (i // cols) + 1
+                    col = (i % cols) + 1
+                    
+                    fig.add_trace(
+                        go.Scatter(
+                            x=daily_errors['Date'],
+                            y=daily_errors[metric],
+                            mode='lines',
+                            name=metric,
+                            line=dict(color=colors[i % len(colors)], width=2, shape='spline'),
+                            showlegend=False
+                        ),
+                        row=row, col=col
+                    )
+                
+                fig.update_layout(
+                    height=300 * rows,
+                    title_text="Error Metrics Over Time",
+                    showlegend=False,
+                    plot_bgcolor='rgba(0,0,0,0)',
+                    paper_bgcolor='rgba(0,0,0,0)',
+                    font=dict(color='white')
+                )
+                
+                # Update all subplot axes
+                for i in range(1, rows + 1):
+                    for j in range(1, cols + 1):
+                        fig.update_xaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                        fig.update_yaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Pre-TODC vs Post-TODC Analysis for Errors
+                st.markdown("### 📊 Pre-TODC vs Post-TODC Error Analysis")
+                
+                # Filter data for each period
+                pre_todc_errors = daily_errors[(daily_errors['Date'] >= pre_todc_start) & (daily_errors['Date'] <= pre_todc_end)]
+                post_todc_errors = daily_errors[(daily_errors['Date'] >= post_todc_start) & (daily_errors['Date'] <= post_todc_end)]
+                
+                # Calculate comparison data
+                comparison_data = []
+                
+                for metric in display_metrics:
+                    if metric in daily_errors.columns:
+                        pre_value = pre_todc_errors[metric].sum()
+                        post_value = post_todc_errors[metric].sum()
+                        
+                        # Calculate delta and percentage delta
+                        delta = post_value - pre_value
+                        pct_delta = (delta / pre_value * 100) if pre_value != 0 else 0
+                        
+                        comparison_data.append({
+                            'Metric': metric,
+                            'Pre-TODC (6/22-7/21)': pre_value,
+                            'Post-TODC (7/22-8/22)': post_value,
+                            'Delta': delta,
+                            '% Delta': pct_delta
+                        })
+                
+                # Create comparison dataframe
+                comparison_df = pd.DataFrame(comparison_data)
+                
+                # Format the display table
+                display_df = comparison_df.copy()
+                
+                # Format numeric columns
+                display_df = display_df.copy()
+                for i, row in display_df.iterrows():
+                    metric = row['Metric']
+                    for col in ['Pre-TODC (6/22-7/21)', 'Post-TODC (7/22-8/22)', 'Delta']:
+                        value = row[col]
+                        if any(keyword in metric.lower() for keyword in ['subtotal', 'commission', 'fees', 'discounts', 'pay', 'amount']):
+                            display_df.loc[i, col] = f"${value:,.2f}"
+                        elif pd.notna(value) and value == int(value):
+                            display_df.loc[i, col] = f"{value:,.0f}"
+                        else:
+                            display_df.loc[i, col] = f"{value:,.2f}"
+                
+                display_df['% Delta'] = display_df['% Delta'].apply(lambda x: f"{x:+.1f}%" if x != 0 else "0.0%")
+                
+                # Show the comparison table
+                st.dataframe(display_df, use_container_width=True)
+        else:
+            st.warning("No Error Charge or Adjustment transactions found in the data")
+        
+        # 3. FINAL ORDER STATUS ANALYSIS
+        st.markdown("## 📋 Final Order Status Analysis")
+        
+        if 'Final order status' in filtered_df.columns:
+            # Daily order status counts
+            status_df = filtered_df[filtered_df['Transaction type'] == 'Order'].copy()
+            
+            if len(status_df) > 0:
+                # Get daily status counts
+                daily_status = status_df.groupby(['Date', 'Final order status']).size().reset_index(name='Count')
+                
+                # Pivot to get status as columns
+                status_pivot = daily_status.pivot(index='Date', columns='Final order status', values='Count').fillna(0)
+                status_pivot = status_pivot.reset_index()
+                
+                # Show status summary
+                st.markdown("### 📊 Order Status Summary")
+                total_by_status = status_df['Final order status'].value_counts()
+                
+                col1, col2, col3, col4 = st.columns(4)
+                status_list = list(total_by_status.index)
+                
+                for i, status in enumerate(status_list[:4]):
+                    with [col1, col2, col3, col4][i]:
+                        st.metric(f"Total {status}", f"{total_by_status[status]:,.0f}")
+                
+                # Create time series chart for order status
+                st.markdown("### 📈 Order Status Over Time")
+                
+                # Create subplots for each status
+                status_columns = [col for col in status_pivot.columns if col != 'Date']
+                
+                if len(status_columns) <= 3:
+                    rows, cols = 1, len(status_columns)
+                elif len(status_columns) <= 6:
+                    rows, cols = 2, 3
+                else:
+                    rows, cols = 3, 2
+                
+                fig = make_subplots(
+                    rows=rows, cols=cols,
+                    subplot_titles=status_columns,
+                    specs=[[{"secondary_y": False} for _ in range(cols)] for _ in range(rows)]
+                )
+                
+                # Add traces for each status
+                colors = ['#00ff88', '#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#feca57']
+                
+                for i, status in enumerate(status_columns):
+                    row = (i // cols) + 1
+                    col = (i % cols) + 1
+                    
+                    fig.add_trace(
+                        go.Scatter(
+                            x=status_pivot['Date'],
+                            y=status_pivot[status],
+                            mode='lines',
+                            name=status,
+                            line=dict(color=colors[i % len(colors)], width=2, shape='spline'),
+                            showlegend=False
+                        ),
+                        row=row, col=col
+                    )
+                
+                fig.update_layout(
+                    height=300 * rows,
+                    title_text="Order Status Over Time",
+                    showlegend=False,
+                    plot_bgcolor='rgba(0,0,0,0)',
+                    paper_bgcolor='rgba(0,0,0,0)',
+                    font=dict(color='white')
+                )
+                
+                # Update all subplot axes
+                for i in range(1, rows + 1):
+                    for j in range(1, cols + 1):
+                        fig.update_xaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                        fig.update_yaxes(gridcolor='rgba(128,128,128,0.2)', row=i, col=j)
+                
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Show daily status data
+                st.markdown("### 📋 Daily Order Status Data")
+                st.dataframe(status_pivot, use_container_width=True)
+            else:
+                st.warning("No Order transactions found for status analysis")
+        else:
+            st.warning("'Final order status' column not found in the data")
+    else:
+        st.error("'Timestamp UTC date' column not found in the financial data")
 
 def main():
     # Main header
