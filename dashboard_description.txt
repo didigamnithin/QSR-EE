@@ -1,104 +1,114 @@
-QSR Executive Enterprises - Streamlit Dashboard Description
-========================================================
+QSR Executive Enterprises - DoorDash Marketing Analysis Dashboard
+===============================================================
 
 OVERVIEW:
-This Streamlit dashboard provides comprehensive analytics for QSR Executive Enterprises across two major delivery platforms: DoorDash and UberEats.
+This specialized Streamlit dashboard provides comprehensive marketing analytics for QSR Executive Enterprises on the DoorDash platform, focusing on campaign performance, time series analysis, and store-level insights.
 
 PLATFORM STRUCTURE:
-- Two main platform buttons at the top center: "DoorDash" and "UberEats"
-- Individual analysis sections for each platform
-- Focus on sales and order metrics over time
-- Dark mode design with clean, professional interface
+- Single platform focus: DoorDash Marketing Analysis
+- Time series visualization with smooth curve graphs
+- Campaign performance comparison (TODC vs Corporate)
+- Multi-store filtering capabilities
+- Dark mode design with professional interface
 
 DATA SOURCES:
 
-DOORDASH DATA:
-1. Financial Data (financial_2025-06-22_2025-08-22_SJnhV_2025-08-28T17-45-19Z/):
-   - FINANCIAL_PAYOUT_SUMMARY_*.csv: Payout summaries with business metrics
-   - FINANCIAL_SIMPLIFIED_TRANSACTIONS_*.csv: Transaction-level data
-   - FINANCIAL_DETAILED_TRANSACTIONS_*.csv: Detailed transaction records
-   - FINANCIAL_ERROR_CHARGES_AND_ADJUSTMENTS_*.csv: Error and adjustment data
-
-2. Marketing Data (marketing_2025-06-22_2025-08-22_FLGlw_2025-08-28T17-46-33Z/):
-   - MARKETING_PROMOTION_*.csv: Promotion campaign performance
-   - MARKETING_SPONSORED_LISTING_*.csv: Sponsored listing data
-
-3. Sales Data:
-   - SALES_viewByOrder_*.csv: Order-level sales data with detailed metrics
-
-UBEREATS DATA:
-1. all_ads.csv: Ad campaign performance data
-   - Campaign metrics: impressions, clicks, orders, ROAS
-   - Store-specific advertising data
-   - Budget and spend tracking
-
-2. all_offers.csv: Offer and promotion data
-   - Campaign performance metrics
-   - Customer acquisition data
-   - Sales and order tracking
-
-3. all_united.csv: Unified sales data
-   - Store performance metrics
-   - Financial data including payouts, fees, taxes
-   - Order counts and revenue tracking
+DOORDASH MARKETING DATA:
+Marketing Data (marketing_2025-06-22_2025-08-22_FLGlw_2025-08-28T17-46-33Z/):
+- MARKETING_PROMOTION_*.csv: Primary data source for analysis
+  * Campaign performance metrics
+  * Store-level data
+  * Self-serve vs corporate campaign classification
+  * Time series data for trend analysis
 
 DASHBOARD FEATURES:
 
-BASIC ANALYSIS SECTION:
-- File information display (row counts, column counts, data completeness)
-- Column names listing
-- Sample data preview
-- Sales and order metrics identification
-- Time series analysis capabilities
+SIDEBAR FILTERS:
+- Collapsible right-side sidebar with filters
+- Store filter with multi-select dropdown
+- Campaign filter with multi-select dropdown (All Campaigns, True, False)
+- Default view: All stores and All campaigns
+- Real-time data filtering based on filter selection
+
+TIME SERIES ANALYSIS:
+- Time on X-axis (Date)
+- Multiple metrics on Y-axis with smooth curve graphs:
+  * Orders
+  * Sales
+  * Customer discounts from marketing (Funded by you)
+  * Customer discounts from marketing (Funded by DoorDash)
+  * Marketing fees (including applicable taxes)
+  * DoorDash marketing credit
+  * Average Order Value (AOV)
+  * ROAS
+  * Customers acquired
+- 3x3 subplot layout for comprehensive visualization
+- Daily aggregation of metrics
+- Smooth spline curves for better visual appeal
+
+CAMPAIGN COMPARISON:
+- Four-category analysis: Pre-TODC Corporate, Pre-TODC TODC, Post-TODC Corporate, Post-TODC TODC
+- Self-serve campaigns (True) → TODC Campaign
+- Corporate campaigns (False) → Corporate Campaign
+- Side-by-side performance comparison across periods
+- Bar charts for Orders, Sales, Marketing Fees, and ROAS
+- Marketing costs breakdown by period and campaign type
+- Detailed comparison table with all 4 categories
+
+PERIOD COMPARISON:
+- Pre-TODC Period (6/22 to 7/21)
+- Post-TODC Period (7/22 to 8/22)
+- Comprehensive metrics comparison table
+- Delta and percentage delta calculations
+
 
 VISUALIZATION CAPABILITIES:
-- Time series analysis of sales and order metrics
-- Daily aggregated data views
-- Interactive date and metric selection
-- Line charts for trend visualization
-- Summary statistics (total, average, max, min)
+- Interactive time series charts with smooth curves
+- Campaign comparison bar charts
+- Multi-store filtering with real-time updates
+- Summary statistics and key metrics
+- Professional dark mode styling
 
 INTERACTIVE FEATURES:
-- Date column selection
-- Metric selection (sales, orders, revenue)
-- Two-column layout for analysis
+- Multi-select store filter
 - Real-time data filtering
 - Interactive charts and tables
+- Responsive layout design
+- Hover information on charts
 
 ANALYTICAL INSIGHTS:
-- Sales and order trends over time
-- Daily performance metrics
-- Revenue analysis and patterns
-- Order volume tracking
-- Performance summary statistics
+- Marketing performance trends over time
+- Campaign type effectiveness comparison
+- Store-level performance analysis
+- Marketing cost breakdown and analysis
+- Customer acquisition patterns
+- ROAS and AOV trends
 
 TECHNICAL SPECIFICATIONS:
 - Built with Streamlit framework
 - Uses Plotly for interactive visualizations
-- Pandas for data manipulation
+- Pandas for data manipulation and aggregation
 - Dark mode design with clean styling
-- Two-column responsive layout
 - Efficient data loading and caching
+- Responsive multi-column layout
 
 UPDATE LOG:
 - Initial version: Basic structure with platform selection and data loading
-- Current version: Sales-focused analysis with time series capabilities and dark mode design
+- Previous version: Sales-focused analysis with time series capabilities
+- Current version: Specialized DoorDash marketing analysis dashboard
 - Features implemented:
-  * Platform selection (DoorDash, UberEats only)
-  * Data loading and caching for all CSV files
-  * Column names display and basic file information
-  * Sales and order metrics identification
-  * Time series analysis with interactive charts
-  * Daily aggregated data views
-  * Dark mode design with clean styling
-  * Two-column layout for analysis
+  * Single platform focus (DoorDash Marketing)
+  * Time series analysis with smooth curve graphs
+  * Campaign comparison (TODC vs Corporate)
+  * Multi-store filtering capabilities
+  * 3x3 subplot visualization layout
+  * Marketing metrics aggregation and analysis
+  * Dark mode design with professional styling
 - Removed features:
-  * Both platforms option
-  * Memory usage display
-  * Data types analysis
-  * Missing value tables
-  * Business name display
-  * Categorical value counts
+  * UberEats platform analysis
+  * General data exploration features
+  * Multiple file analysis
+  * Platform selection buttons
 - Planned updates: Advanced filtering, export capabilities, comparative analysis
 
 BUG FIXES:
@@ -106,3 +116,4 @@ BUG FIXES:
 - Added data type checking for metric selection
 - Improved error handling for aggregation functions
 - Added data type information display for better user understanding
+- Optimized for marketing data structure and column names
